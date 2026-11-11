@@ -2,6 +2,19 @@
 
 ## Learning Log
 
+### 11 nov - Interactie en Schetsen
+
+Bij Interactie van Nicky heb ik het Wok to Walk menu geschetst als online formulier voor laptop en tablet. Eerst de drie kolommen los, daarna het hele scherm. Ik heb ook getekend hoe een rij eruitziet als default, bij hover en als hij actief is. In de laatste versie heb ik de gekozen opties oranje gemaakt en het totaal onderaan gezet.
+
+![Schets van het Wok to Walk formulier met drie kolommen en de staten van een rij](readme-images/11nov-wok-formulier.png)
+
+Bij Schetsen van Charley heb ik de basisoefeningen gedaan. Ik heb rechte lijnen, vierkanten en een iPhone op ware grootte getekend. Twee iPhones heb ik ingekleurd met schaduw en kleur. Daarna heb ik een mi-fi schets gemaakt van Instagram, een app die ik vaak gebruik.
+
+![Oefening met rechte lijnen](readme-images/11nov-lijnen.png)
+![Oefening met vierkanten](readme-images/11nov-vierkanten.png)
+![Vier iPhones op ware grootte, twee ingekleurd](readme-images/11nov-iphones.png)
+![Mi-fi schets van Instagram](readme-images/11nov-instagram.png)
+
 ### 9 nov Kickoff
 
 Ik heb GitHub gekozen als source hosting platform. Daar staat mijn code en van daaruit gaat mijn site online. Ik heb de model repository geforkt en GitHub Pages aangezet.
