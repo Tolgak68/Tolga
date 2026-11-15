@@ -2,6 +2,20 @@
 
 ## Learning Log
 
+### 13 nov - Praktische CSS en CSS fonts
+
+Deze twee deep dives heb ik in het weekend gemaakt.
+
+Bij Praktische CSS van Vasilis heb ik in CodePen een lelijke HTML pagina gemaakt over het wachten op GTA 6. Daarna heb ik hem met CSS leesbaar gemaakt. Eerst deed mijn CSS niks. Mijn index.html had geen link naar style.css. Toen ik die regel bovenaan zette werkte het wel.
+
+Voor de witruimte en de grootte van de koppen heb ik custom properties gebruikt. Ik heb --factor getest met 1.2, 1.3 en hoger. Dan werden de koppen te groot naast de gewone tekst en klopte de verhouding niet. Ik heb 1.1 gekozen. Daarna heb ik een link met hover en focus en een formulier toegevoegd. De rand om het formulier heb ik weggehaald omdat het er zo beter uitziet.
+
+Bij CSS fonts van Sanne heb ik lettertypen toegevoegd met @font-face. Ik heb steeds mijn versie naast het voorbeeld van Sanne gelegd en getallen aangepast. Bij oefening 1 was de eerste letter met 3em veel te groot, met 1.5em leek hij. Bij oefening 2 was de gloed met .5em te verspreid, met .2em zit hij strak om de letters. De letters en regels stonden te dicht op elkaar, dus ik heb line-height 1.1 en letter-spacing .1em gebruikt. De schaduw heb ik steeds van .2 naar .5 veranderd om te vergelijken. Ik vond .2 er beter uitzien.
+
+Bij oefening 3 heb ik het blokje Myst nagemaakt. Met 3em waren de letters kleiner dan bij Sanne, 4em klopte beter. Bij oefening 4 heb ik een transitie toegevoegd. Als je over het blokje gaat schuift de schaduw verder weg en draait de tekst 180 graden. Die draai heb ik zelf toegevoegd omdat het blokje er speelser door wordt.
+
+Bronnen zijn de deep dives van Vasilis en Sanne.
+
 ### 11 nov - Interactie en Schetsen
 
 Bij Interactie van Nicky heb ik het Wok to Walk menu geschetst als online formulier voor laptop en tablet. Eerst de drie kolommen los, daarna het hele scherm. Ik heb ook getekend hoe een rij eruitziet als default, bij hover en als hij actief is. In de laatste versie heb ik de gekozen opties oranje gemaakt en het totaal onderaan gezet.
