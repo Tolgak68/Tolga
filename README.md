@@ -2,6 +2,25 @@
 
 ## Learning Log
 
+### 17 nov - Presentatie digital garden
+
+Mijn onderwerp is ik als ontwerper. Ik wil een portfolio bouwen waarin je kan zien hoe ik groei als ontwerper.
+
+Voor de 50 afbeeldingen heb ik mijn oude werk van DLO gebruikt. Daaruit komen 29 afbeeldingen van jaar 1 blok 1, 3 en 4 en jaar 2 blok 1. De andere 21 zijn screenshots van sites. 15 komen uit de lijst met voorbeelden op DLO en 6 heb ik erbij gezocht, zoals Bruno Simon en de site van GTA 6. Ik heb de bestanden gedownload, de screenshots gemaakt en er 8 collages van gemaakt, omdat je maar 15 slides mag hebben.
+
+![Titelslide van mijn presentatie](readme-images/17nov-titelslide.png)
+![Slide met de collage van mijn werk uit jaar 1 blok 1](readme-images/17nov-collage-eigen-werk.png)
+![Slide met de collage van speelse sites als inspiratie](readme-images/17nov-collage-inspiratie.png)
+
+Remark kende ik nog niet. De slides zijn gewoon Markdown, net als mijn README. Een nieuwe slide begin je met `---` en een titel met `#`. Een afbeelding zet je erin met `![alt tekst](pad)`. De presentatie heb ik in vier stappen gebouwd en na elke stap getest en gecommit.
+
+Eerst vielen de collages buiten de slide. Met `img { max-width: 100%; }` uit de reset van praktische CSS passen ze wel.
+
+![Collage zonder max-width, hij valt buiten de slide](readme-images/17nov-zonder-max-width.png)
+![Collage met max-width, hij past in de slide](readme-images/17nov-met-max-width.png)
+
+Bronnen zijn de opdracht op DLO, de Remark template van de docenten en de 21 sites die in de presentatie staan.
+
 ### 13 nov - Praktische CSS en CSS fonts
 
 Deze twee deep dives heb ik in het weekend gemaakt.
