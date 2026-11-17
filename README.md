@@ -1,5 +1,31 @@
 # Digital garden van Tolga
 
+## Eigen verkenning
+
+### Wat ik wil maken
+
+Ik maak een portfolio als digital garden, over mij als ontwerper. Ik wil daar mijn werk van school laten zien. Ik zou het na dit blok graag blijven bijhouden.
+
+### Wat ik zag en nog niet kan
+
+Bruno Simon heeft van zijn portfolio een game gemaakt waarin je met een auto langs zijn projecten rijdt. Dat kan ik nog niet, maar het spreekt me aan omdat ik veel game. Bij Maggie Appleton heeft elke tekst een groeifase. Dat vind ik een mooi idee voor een digital garden, omdat je dan ziet wat nog groeit.
+
+### Webby dingen die ik zag
+
+Bij Ste Grainer en Mike Mai kan je zelf licht, donker of automatisch kiezen. Dat heb ik vandaag in het practicum geoefend, dus dat is een idee voor mijn eigen garden. Lynn Fisher bewaart oude versies van haar site en Basher heeft een grote eerste letter. Dat vond ik ook interessant.
+
+### Mijn eigen content
+
+Ik denk aan schetsen, prototypes en eindresultaten van mijn projecten, met wat ik ervan geleerd heb. Het doel is dat je mijn groei als ontwerper kan zien.
+
+### Content van anderen
+
+Mijn garden gaat over mijn eigen werk, dus het meeste is van mij. Laat ik iets van een ander zien, zoals een screenshot van een site, dan hoort daar een bron bij en mijn eigen tekst over wat ik eruit haal.
+
+### Hoe je het kan ervaren
+
+Dat weet ik nog niet precies. Zelf licht of donker kiezen is een idee, omdat ik dat al geoefend heb. In mijn 50 afbeeldingen zag ik veel donkere achtergronden met roze, paars en groen. Dat kan een begin zijn voor mijn kleuren.
+
 ## Learning Log
 
 Bij oefening 3 heb ik van een foto met hardlopers een responsive afbeelding gemaakt met het picture element. Er zijn vier versies van de foto. Groot is de hele foto en klein is een uitsnede van de schoen. De donkere versies zijn dezelfde foto's maar donkerder. Die vier versies heb ik gemaakt met een fotobewerking. De img onderaan is licht en klein. Daarboven staan met source donker en klein, licht en groot en donker en groot. Met een media query met and kies je de foto voor een breed scherm in donker.
