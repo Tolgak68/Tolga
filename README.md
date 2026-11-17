@@ -2,6 +2,31 @@
 
 ## Learning Log
 
+### 17 nov - Practicum Light & Dark
+
+Bij oefening 1 en 2 van Vasilis heb ik met custom properties een licht en donker thema gemaakt in CodePen. Eerst heb ik de pen geforkt. Ik keek de code op DLO, Ik heb die gelezen, in mijn fork gezet en na elk stuk getest.
+
+Bij oefening 1 heb ik in de html selector custom properties gemaakt voor de achtergrond, de tekst, de rand en de kop. In body en h1 gebruik ik ze met var(). Om te testen heb ik de rand naar oranje veranderd. De rand veranderde meteen mee terwijl ik alleen de custom property bovenaan had aangepast.
+
+![Oefening 1 zoals hij begon](readme-images/17nov-oefening1-start.png)
+![Oefening 1 met kleuren uit de custom properties](readme-images/17nov-oefening1-kleuren.png)
+![Oefening 1 met de rand naar oranje veranderd](readme-images/17nov-oefening1-oranje-rand.png)
+
+Daarna heb ik color-scheme light dark aangezet en elke custom property twee kleuren gegeven met light-dark(). De eerste kleur is voor licht en de tweede voor donker. Ik heb het getest door mijn Mac in Systeeminstellingen van donker naar licht te zetten.
+
+![Oefening 1 met mijn Mac op donker](readme-images/17nov-oefening1-donker.png)
+![Oefening 1 met mijn Mac op licht](readme-images/17nov-oefening1-licht.png)
+
+Oefening 2 was een kattenwinkel die helemaal grijs begon. Die heb ik in drie stukken gedaan. Eerst de achtergrond, de tekst en de header. Daarna de keuze tussen auto, licht en donker in de header. Als laatste de kaartjes en de knoppen met een andere kleur bij hover en active. Omdat ik light-dark() gebruik werken de keuzeknoppen in de header meteen.
+
+![De kattenwinkel zoals hij begon](readme-images/17nov-oefening2-start.png)
+![De kattenwinkel in donker na het eerste stuk](readme-images/17nov-oefening2-basiskleuren-donker.png)
+![De kattenwinkel in licht met de gekozen optie paars](readme-images/17nov-oefening2-opties-licht.png)
+![Een knop die roze wordt bij hover](readme-images/17nov-oefening2-knop-hover.png)
+![Een knop die donkerblauw wordt als je erop klikt](readme-images/17nov-oefening2-knop-active.png)
+
+Bronnen zijn het practicum Light & Dark van Vasilis op DLO en de CodePens van de docenten.
+
 ### 17 nov - Presentatie digital garden
 
 Mijn onderwerp is ik als ontwerper. Ik wil een portfolio bouwen waarin je kan zien hoe ik groei als ontwerper.
