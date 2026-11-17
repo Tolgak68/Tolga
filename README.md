@@ -28,14 +28,14 @@ Dat weet ik nog niet precies. Zelf licht of donker kiezen is een idee, omdat ik 
 
 ## Learning Log
 
+### 17 nov - Practicum Light & Dark
+
 Bij oefening 3 heb ik van een foto met hardlopers een responsive afbeelding gemaakt met het picture element. Er zijn vier versies van de foto. Groot is de hele foto en klein is een uitsnede van de schoen. De donkere versies zijn dezelfde foto's maar donkerder. Die vier versies heb ik gemaakt met een fotobewerking. De img onderaan is licht en klein. Daarboven staan met source donker en klein, licht en groot en donker en groot. Met een media query met and kies je de foto voor een breed scherm in donker.
 
 ![Oefening 3 in licht op een breed scherm](readme-images/17nov-oefening3-licht-breed.png)
 ![Oefening 3 in licht op een smal scherm](readme-images/17nov-oefening3-licht-smal.png)
 ![Oefening 3 in donker op een breed scherm](readme-images/17nov-oefening3-donker-breed.png)
 ![Oefening 3 in donker op een smal scherm](readme-images/17nov-oefening3-donker-smal.png)
-
-### 17 nov - Practicum Light & Dark
 
 Bij oefening 1 en 2 van Vasilis heb ik met custom properties een licht en donker thema gemaakt in CodePen. Eerst heb ik de pen geforkt. Ik keek de code op DLO, Ik heb die gelezen, in mijn fork gezet en na elk stuk getest.
 
