@@ -79,6 +79,20 @@ Eerst vielen de collages buiten de slide. Met `img { max-width: 100%; }` uit de 
 
 Bronnen zijn de opdracht op DLO, de Remark template van de docenten en de 21 sites die in de presentatie staan.
 
+### 16 nov - Sprintplanning en verkenning onderwerp
+
+Vandaag begon sprint 1. De opdracht is de eerste versie van mijn digital garden ontwerpen, bouwen en online zetten. Mijn planning voor het huiswerk heb ik in mijn notities gezet. Ik heb mijn fork gesynct met de repository van de docenten. Daardoor kwam de map oefeningen met de presentatie in mijn repository.
+
+In mijn expertgroep heb ik Digital Garden Terms of Service van Shawn Wang gelezen. Dat gaat over wat je als lezer kan verwachten van een digital garden, bijvoorbeeld dat teksten nog niet af zijn en later nog veranderen.
+
+Een gewone website is vaak af als hij online staat en een blog zet alles op datum. Een digital garden groeit. Je zet er ook dingen op die nog niet af zijn en je werkt ze later bij. Het is meer een verzameling die met links aan elkaar zit dan een tijdlijn.
+
+Op DLO staat wanneer iets webby is. Fluïde, interactief, toegankelijk, volwassen, expressief en leuk of verrassend. Voor mij is een site webby als hij iets doet wat alleen op het web kan, zoals meebewegen met je scherm of zelf licht en donker kiezen. De sites die mij het meeste inspireren zijn Bruno Simon, Maggie Appleton en Mike Mai.
+
+Mijn eerste idee is een portfolio over mij als ontwerper, waarin je mijn groei kan zien. Dat kan nog veranderen.
+
+Bronnen zijn de opdrachten op DLO en het artikel van Shawn Wang.
+
 ### 13 nov - Praktische CSS en CSS fonts
 
 Deze twee deep dives heb ik in het weekend gemaakt.
