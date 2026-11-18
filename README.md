@@ -28,6 +28,22 @@ Dat weet ik nog niet precies. Zelf licht of donker kiezen is een idee, omdat ik 
 
 ## Learning Log
 
+### 18 nov - Werkgroep 2
+
+Vandaag heb ik mijn HTML presentatie in een tweetal gepresenteerd. Daarna heeft mijn medestudent mij de vragen van DLO gesteld.
+
+Wat is voor jou de essentie van je onderwerp en content? Mijn digital garden is een plek waar ik mijn werk als ontwerper verzamel en waar je kan zien hoe ik groei. Nu is het vooral schoolwerk. Later kan ik het laten zien aan een stagebedrijf of werkgever.
+
+Heeft de ander een aanvulling op je onderwerp? Ik vroeg of het een goed onderwerp is. Mijn medestudent vond het goed en nuttig, omdat ik dan al mijn werk op een rijtje heb. Welk karakter of gevoel past bij je onderwerp? Het karakter ben ik zelf, een student met al wat ervaring die nog groeit. Het gevoel moet inspirerend zijn, zodat mensen zin krijgen om zelf iets te maken.
+
+Welke woorden uit de kwaliteitenlijst passen bij je onderwerp? Expressief en leuk of verrassend.
+
+Welke inspiratie haal je uit je afbeeldingen? Groeiend en speels. Groeiend zie ik in mijn eigen schetsen die later een prototype worden. Speels zie ik in sites als Bruno Simon en tamaNOTchi, die voelen als een game.
+
+Wat wil je een ander vertellen over je onderwerp? Ik wil laten zien hoe ik werk, van eerste schets tot eindresultaat. Zo zie je wat ik kan en raak je misschien zelf geïnspireerd.
+
+Ik wil mijn digital garden laten gaan over mijn werk als ontwerper en wil dat laten zien door schetsen, prototypes en eindresultaten van mijn projecten aan content te tonen. Ik begin met een stukje eigen content over mijn eerste project uit jaar 1, de app en het 3D stadion. Dan begint mijn garden bij het begin. Als het begin is gemaakt kan ik mijn garden verder uitbreiden door elk blok een nieuw project toe te voegen.
+
 ### 17 nov - Practicum Light & Dark
 
 Bij oefening 3 heb ik van een foto met hardlopers een responsive afbeelding gemaakt met het picture element. Er zijn vier versies van de foto. Groot is de hele foto en klein is een uitsnede van de schoen. De donkere versies zijn dezelfde foto's maar donkerder. Die vier versies heb ik gemaakt met een fotobewerking. De img onderaan is licht en klein. Daarboven staan met source donker en klein, licht en groot en donker en groot. Met een media query met and kies je de foto voor een breed scherm in donker.
