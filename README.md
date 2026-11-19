@@ -44,7 +44,29 @@ Daarna heb ik voor de mini style guide een kleurpalet gemaakt voor donker en voo
 
 ![Mijn lichte kleurpalet in Adobe Color](readme-images/kleurpalet-licht.png)
 
-Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen op DLO en de opdracht mini styleguide op DLO en [Adobe Color](https://color.adobe.com/create/color-wheel).
+Daarna heb ik naar lettertypes gekeken. Ik heb de Seftel poster in Adobe Fonts geüpload. Adobe zag er een geometrisch, zwaar schreefloos lettertype in. Die lettertypes zitten alleen in Adobe en mag ik niet zomaar op mijn site zetten. Net als bij de kleuren ben ik begonnen met voorstellen en die heb ik op Google Fonts vergeleken, want die mag ik gratis als bestand gebruiken zoals in mijn practicum.
+
+![Adobe Fonts analyse van de Seftel poster](readme-images/lettertype-adobe-seftel.png)
+
+Ik heb een lettertype nodig voor mijn naam en kopjes en een voor gewone tekst. De kop mag opvallen en speels zijn. Gewone tekst moet op een telefoon goed leesbaar zijn bij 16px.
+
+Voor de kop heb ik Unbounded, Bungee en Space Grotesk geprobeerd met TOLGA. Unbounded heeft brede ronde zware letters, net als de grote letters op Seftel. Bungee lijkt op letters uit arcade games, dat past bij mijn game level. Space Grotesk is ook geometrisch maar rustiger, als de andere twee te druk worden.
+
+![Unbounded met mijn naam](readme-images/lettertype-unbounded.png)
+
+![Bungee met mijn naam](readme-images/lettertype-bungee.png)
+
+![Space Grotesk met mijn naam](readme-images/lettertype-space-grotesk.png)
+
+Voor gewone tekst heb ik DM Sans en Rubik geprobeerd met de zin Mijn groei als ontwerper en als persoon. DM Sans heeft dezelfde geometrische vormen als de koppen maar is open en goed te lezen. Rubik heeft licht ronde hoeken, daardoor voelt het vriendelijk en blijft het leesbaar.
+
+![DM Sans met een zin](readme-images/lettertype-dm-sans.png)
+
+![Rubik met een zin](readme-images/lettertype-rubik.png)
+
+Ik heb nog geen keuze gemaakt.
+
+Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com).
 
 ### 18 nov - Werkgroep 2
 
