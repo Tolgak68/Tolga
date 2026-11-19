@@ -76,6 +76,20 @@ Is het idee leuk en verrassend? Heb je zin om dit ontwerp te maken?
 
 Ja, vooral de losse letters en het game level, omdat die bij mij passen.
 
+Check-out
+
+Waar werkt de visual research in drie stappen naartoe?
+
+Naar uitgangspunten waarmee ik kan schetsen. Ik begon met beelden die direct bij mijn sfeerwoorden passen, daarna zocht ik abstracte posters en uit vier posters haalde ik kenmerken die ik echt kan gebruiken.
+
+Waar gaat je garden over en met welke content?
+
+Mijn garden gaat over mijn groei als ontwerper en als persoon. Ik laat mijn projecten zien vanaf jaar 1, met schetsen, prototypes en eindresultaten.
+
+Welk Crazy 8 idee wil je het liefst uitwerken?
+
+Ik wil meerdere ideeën samen uitwerken. Bovenaan staat mijn naam in losse letters. Daaronder loopt een rank of tijdlijn met mijn projecten, die je ook als game level met een slotje kan zien. Bij een project kan een schets verstopt zitten die je pas ziet als je beter kijkt.
+
 Bronnen zijn de opdrachten en slides van werkgroep 2 op DLO, [Unsplash](https://unsplash.com) en [typographicposters.com](https://www.typographicposters.com).
 
 ### 17 nov - Practicum Light & Dark
