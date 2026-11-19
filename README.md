@@ -28,6 +28,18 @@ Dat weet ik nog niet precies. Zelf licht of donker kiezen is een idee, omdat ik 
 
 ## Learning Log
 
+### 19 nov - Zelfstudie schetsen
+
+Voor vrijdag heb ik vijf mobile first schetsen gemaakt van de voorpagina van mijn garden. Ik heb ideeën uit mijn Crazy 8 gebruikt. Schets 1 is mijn naam in losse letters met een tijdlijn. Schets 2 is een rank met mijn projecten eraan. Schets 3 is een game level met een slotje voor wat nog komt. Schets 4 laat de schets achter een project zien als je erop tikt. Schets 5 combineert de losse letters, het game pad en de verstopte schets met een knop voor licht en donker en een footer met links. Bij schets 3, 4 en 5 heb ik ook getekend wat er gebeurt als je tikt.
+
+![Schets 1 met losse letters en tijdlijn en schets 2 met de rank](oefeningen/schetsen/schetsen-mobile-1-en-2.jpg)
+
+![Schets 3 met het game level en schets 4 met de verstopte schets](oefeningen/schetsen/schetsen-mobile-3-en-4.jpg)
+
+![Schets 5 die alles combineert](oefeningen/schetsen/schets-mobile-5.jpg)
+
+Bronnen zijn de randvoorwaarden schetsen en de Deep Dive schetsen op DLO.
+
 ### 18 nov - Werkgroep 2
 
 Vandaag heb ik mijn HTML presentatie in een tweetal gepresenteerd. Daarna heeft mijn medestudent mij de vragen van DLO gesteld.
