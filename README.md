@@ -38,7 +38,13 @@ Voor vrijdag heb ik vijf mobile first schetsen gemaakt van de voorpagina van mij
 
 ![Schets 5 die alles combineert](oefeningen/schetsen/schets-mobile-5.jpg)
 
-Bronnen zijn de randvoorwaarden schetsen en de Deep Dive schetsen op DLO.
+Daarna heb ik voor de mini style guide een kleurpalet gemaakt voor donker en voor licht. De kleuren komen uit mijn onderzoek, felle kleuren zoals roze, blauw en paars op een donkere achtergrond. In donker is de achtergrond #15111F en de tekst #F3EFFA. Blauw #5B7CFF is voor links en knoppen, roze #FF5FA8 voor hover en paars #A77BFF voor de tijdlijn en de rank. In licht is de achtergrond #F7F4FB en de tekst #1E1A2B, met donkerdere accenten, blauw #2F45C8, roze #C2185B en paars #6B3FB8. Alle kleuren hebben minstens 4.5 : 1 contrast met de achtergrond, dus ze zijn goed te lezen.
+
+![Mijn donkere kleurpalet in Adobe Color](readme-images/kleurpalet-donker.png)
+
+![Mijn lichte kleurpalet in Adobe Color](readme-images/kleurpalet-licht.png)
+
+Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen op DLO en de opdracht mini styleguide op DLO en [Adobe Color](https://color.adobe.com/create/color-wheel).
 
 ### 18 nov - Werkgroep 2
 
