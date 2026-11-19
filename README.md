@@ -44,6 +44,40 @@ Wat wil je een ander vertellen over je onderwerp? Ik wil laten zien hoe ik werk,
 
 Ik wil mijn digital garden laten gaan over mijn werk als ontwerper en wil dat laten zien door schetsen, prototypes en eindresultaten van mijn projecten aan content te tonen. Ik begin met een stukje eigen content over mijn eerste project uit jaar 1, de app en het 3D stadion. Dan begint mijn garden bij het begin. Als het begin is gemaakt kan ik mijn garden verder uitbreiden door elk blok een nieuw project toe te voegen.
 
+Daarna heb ik de visual research gedaan in Miro. Mijn onderwerp is mijn groei als ontwerper en als persoon. Mijn sfeerwoorden zijn speels, nieuwsgierig en groeiend. Hier is [mijn Miro bord](https://miro.com/app/board/uXjVEPuW9bg=/?moveToWidget=3458764690739779210&cot=14).
+
+![Mijn onderwerp en sfeerwoorden in Miro](readme-images/vr-miro-sfeerwoord.jpg)
+
+![Stap 1 met mijn beelden en steekwoorden](readme-images/vr-miro-stap-1.jpg)
+
+![Stap 2 met mijn posters van typographicposters.com](readme-images/vr-miro-stap-2.jpg)
+
+![Stap 3 met mijn vier posters en uitgangspunten](readme-images/vr-miro-stap-3.jpg)
+
+![Mijn Crazy 8 in Miro](readme-images/vr-miro-crazy-8.jpg)
+
+Wat zijn de beste ideeën en waarom? En waarom de andere minder?
+
+Het sterkst zijn de losse letters, de rank, de groeiende tijdlijn, de verstopte schets en het game level. De letters zijn mijn naam en voelen speels. De rank en de tijdlijn laten mijn groei zien. De verstopte schets maakt nieuwsgierig. Het game level past bij gaming en het slotje laat zien dat mijn garden nog niet af is. De gloeiende cirkel zegt niks over mijn werk. Het plantje is te letterlijk. De draaiende kaart lijkt te veel op de verstopte schets.
+
+Zijn je uitgangspunten terug te zien in de schetsen?
+
+Ja. De letters komen uit Seftel, de rank uit Designers for Glaser en de tijdlijn uit Rhizom.
+
+Is het idee online te vertalen?
+
+Ja. De tijdlijn en de rank lopen van boven naar beneden, dat past op mobiel. Mijn naam wordt de kop bovenaan, op een donkere achtergrond met roze, blauw en paars.
+
+Is het idee expressief? Zit er genoeg uitdaging in?
+
+Ja. De letters kunnen draaien met rotate en transition, dat ken ik van Sanne. Hoe ik de golvende rank en het pad maak moet ik nog uitzoeken.
+
+Is het idee leuk en verrassend? Heb je zin om dit ontwerp te maken?
+
+Ja, vooral de losse letters en het game level, omdat die bij mij passen.
+
+Bronnen zijn de opdrachten en slides van werkgroep 2 op DLO, [Unsplash](https://unsplash.com) en [typographicposters.com](https://www.typographicposters.com).
+
 ### 17 nov - Practicum Light & Dark
 
 Bij oefening 3 heb ik van een foto met hardlopers een responsive afbeelding gemaakt met het picture element. Er zijn vier versies van de foto. Groot is de hele foto en klein is een uitsnede van de schoen. De donkere versies zijn dezelfde foto's maar donkerder. Die vier versies heb ik gemaakt met een fotobewerking. De img onderaan is licht en klein. Daarboven staan met source donker en klein, licht en groot en donker en groot. Met een media query met and kies je de foto voor een breed scherm in donker.
