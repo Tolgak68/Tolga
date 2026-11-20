@@ -68,7 +68,65 @@ Ik heb nog geen keuze gemaakt.
 
 Daarna ben ik begonnen met de HTML structuur van mijn garden in [index.html](index.html). Ik ben uitgegaan van schets 5. In de header staat mijn naam als h1 met de zin Mijn groei als ontwerper en als persoon eronder en een nav met een link naar mijn learning log. In de main staat elk project als article met een h2, een collage uit mijn presentatie en een korte tekst. Ze staan op volgorde van jaar 1 tot nu en het laatste article is Binnenkort het level dat nog op slot is. In de footer staan links naar mijn GitHub en mijn mail.
 
-Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com).
+### Practicum kleuren en gradients
+
+Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
+
+Oefening 1, de zes gradients
+
+![Start van oefening 1 met lege blokjes](readme-images/gradients/gradients-oefening-1-start.png)
+
+![Blokje 1 tot en met 4, deel 1](readme-images/gradients/gradients-oefening-1-blokjes-01-tot-04-deel-1.png)
+
+![Blokje 1 tot en met 4, deel 2](readme-images/gradients/gradients-oefening-1-blokjes-01-tot-04-deel-2.png)
+
+![Blokje 5 tot en met 8, deel 1](readme-images/gradients/gradients-oefening-1-blokjes-05-tot-08-deel-1.png)
+
+![Blokje 5 tot en met 8, deel 2](readme-images/gradients/gradients-oefening-1-blokjes-05-tot-08-deel-2.png)
+
+![Blokje 9 tot en met 12, deel 1](readme-images/gradients/gradients-oefening-1-blokjes-09-tot-12-deel-1.png)
+
+![Blokje 9 tot en met 12, deel 2](readme-images/gradients/gradients-oefening-1-blokjes-09-tot-12-deel-2.png)
+
+![Blokje 9 tot en met 12, deel 3](readme-images/gradients/gradients-oefening-1-blokjes-09-tot-12-deel-3.png)
+
+![Alle twaalf blokjes klaar](readme-images/gradients/gradients-oefening-1-alle-twaalf-blokjes.png)
+
+Oefening 2, vlaggen
+
+![Start van oefening 2](readme-images/gradients/gradients-oefening-2-start.png)
+
+![Vlaggen met strepen, deel 1](readme-images/gradients/gradients-oefening-2-strepen-deel-1.png)
+
+![Vlaggen met strepen, deel 2](readme-images/gradients/gradients-oefening-2-strepen-deel-2.png)
+
+![Zweden met twee gradients](readme-images/gradients/gradients-oefening-2-zweden-twee-gradients.png)
+
+![Vlag met schuine strepen met repeating-linear-gradient](readme-images/gradients/gradients-oefening-2-anker-repeating.png)
+
+![Japan met radial-gradient en Tsjechië met conic-gradient](readme-images/gradients/gradients-oefening-2-japan-radial-tsjechie-conic.png)
+
+![Alle acht vlaggen klaar](readme-images/gradients/gradients-oefening-2-alle-acht-vlaggen.png)
+
+Oefening 3, animeren met @property
+
+![Start van oefening 3](readme-images/gradients/gradients-oefening-3-start.png)
+
+![Move it met hover](readme-images/gradients/gradients-oefening-3-move-it-hover.png)
+
+![Een rondje tijdens de transition](readme-images/gradients/gradients-oefening-3-een-rondje-tijdens-transition.png)
+
+![Animate it met keyframes](readme-images/gradients/gradients-oefening-3-animate-it-keyframes.png)
+
+![Het centerpunt beweegt](readme-images/gradients/gradients-oefening-3-centerpunt-beweegt.png)
+
+![De starthoek draait](readme-images/gradients/gradients-oefening-3-starthoek-draait.png)
+
+![Moeilijk met eigen ringen](readme-images/gradients/gradients-oefening-3-moeilijk-eigen-ringen.png)
+
+![Alle zes blokjes klaar](readme-images/gradients/gradients-oefening-3-alle-zes-blokjes.png)
+
+Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com), het practicum mooie kleuren en gradients van Sanne op DLO, de intro CSS kleuren en de intro CSS gradients van Sanne en de oefeningen van Sanne op [CodePen](https://codepen.io).
 
 ### 18 nov - Werkgroep 2
 
