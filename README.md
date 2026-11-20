@@ -66,6 +66,8 @@ Voor gewone tekst heb ik DM Sans en Rubik geprobeerd met de zin Mijn groei als o
 
 Ik heb nog geen keuze gemaakt.
 
+Daarna ben ik begonnen met de HTML structuur van mijn garden in [index.html](index.html). Ik ben uitgegaan van schets 5. In de header staat mijn naam als h1 met de zin Mijn groei als ontwerper en als persoon eronder en een nav met een link naar mijn learning log. In de main staat elk project als article met een h2, een collage uit mijn presentatie en een korte tekst. Ze staan op volgorde van jaar 1 tot nu en het laatste article is Binnenkort het level dat nog op slot is. In de footer staan links naar mijn GitHub en mijn mail.
+
 Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com).
 
 ### 18 nov - Werkgroep 2
