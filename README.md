@@ -38,6 +38,22 @@ Als laatste iteratie bouw ik eerst een recht pad van boven naar beneden, zoals d
 
 Bij opdracht 13 heb ik net als in het voorbeeld op DLO naar schets 5 gekeken en bij alles gevraagd wat het is. Bovenaan staat mijn naam. Dat is het belangrijkste kopje, dus de h1. De zin eronder is geen kopje maar uitleg dus een p. De levels op het pad staan op volgorde van jaar 1 tot nu en die volgorde is belangrijk. Daarom is het een geordende lijst, een ol met een li per level en geen losse articles. Elk level heeft een h2, een img en een p. Het slotje is de laatste li. Onderaan staan twee links dat is een ul in de footer. De knop voor licht en donker is een keuze, net als de keuzeknoppen in het practicum van Vasilis.
 
+Bij opdracht 14 heb ik verder gewerkt aan de mobiele versie van mijn garden. In de HTML heb ik van mijn levels een ol gemaakt en per level mijn eigen tekst gezet over wat ik in die periode leerde. Die teksten komen uit mijn productbiografieën en design rationales van vorige blokken. Daarna ben ik begonnen met mijn CSS in normal.css. Mijn kleuren uit mijn mini style guide staan als custom properties met light-dark() in de html selector. De pagina is één kolom van maximaal 30em in het midden van het scherm. Mijn naam en de kopjes staan in Bungee en de tekst in Rubik met @font-face. Ik koos Rubik omdat het ook vierkante vormen heeft maar met ronde hoeken. Het past bij Bungee en is rustiger om te lezen. De links in de nav en de footer staan naast elkaar en langs mijn levels loopt een paarse lijn als recht pad.
+
+![Mijn garden in één kolom op een smal scherm](readme-images/20nov-one-column-mobiel.png)
+
+![Mijn garden in één kolom op een breed scherm](readme-images/20nov-one-column-breed.png)
+
+Twee keer verdwenen er regels uit mijn CSS, omdat ik bij het vervangen van mijn body blok meer selecteerde dan alleen dat blok. Eerst de reset en daarna de kleuren van mijn links. Daardoor waren mijn links paars van de browser in plaats van blauw. Ik heb ze wel weer terug.
+
+In het voortgangsgesprek zei Sanne dat mijn garden op een portfolio leek. Hij zag in mijn HTML mijn projecten per blok met een plaatje en een tekst. Ik heb gezegd dat andere docenten mijn onderwerp goed vonden. Opnieuw beginnen wilde ik niet, omdat mijn onderzoek, schetsen en kleuren al bij mijn onderwerp passen. Daarom heb ik mijn idee aangepast. Mijn garden gaat over mijn groei als ontwerper en als persoon. Per periode laat ik zien wat ik leerde en waar ik vastliep en niet alleen wat ik maakte. Mijn eigen verkenning bovenaan mijn README heb ik daarop aangepast.
+
+Diederik was positief over mijn onderzoek. Hij vond dat mijn keuzes een goede reden hebben en niet uit de lucht komen. Over mijn schetsen was hij ook positief en hij dacht tijdens het gesprek met me mee.
+
+Welke feedback heb je gehad? Sanne vond dat mijn garden op een portfolio leek. Daarom gaat hij nu over wat ik per periode leerde. Diederik was positief over mijn onderzoek en mijn schetsen.
+
+Bronnen zijn de opdrachten van werkgroep 3 op DLO, de intro CSS grid van Sanne op DLO, mijn eigen productbiografieën en design rationales en Bungee en Rubik van Google Fonts.
+
 ### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
