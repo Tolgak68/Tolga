@@ -54,6 +54,55 @@ Welke feedback heb je gehad? Sanne vond dat mijn garden op een portfolio leek. D
 
 Bronnen zijn de opdrachten van werkgroep 3 op DLO, de intro CSS grid van Sanne op DLO, mijn eigen productbiografieën en design rationales en Bungee en Rubik van Google Fonts.
 
+## Grid oefening 1
+
+### Wat ik heb gedaan
+
+Ik heb de pen "code voor jou" geforkt en in style.css de elf sommetjes één voor één gemaakt. Na elk sommetje heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt van de code en de preview naast elkaar. De algemene styling van de articles heb ik niet aangepast.
+
+### Wat ik heb geleerd
+
+Met `display: grid` op `main` maak je van de pagina een grid. De articles worden dan automatisch de vakjes.
+Met `grid-template-columns: 1fr 1fr 1fr` maak je drie even brede kolommen. `fr` betekent een deel van de ruimte die over is.
+Met `gap` zet je ruimte tussen de vakjes, zonder margin te gebruiken.
+Met `grid-column-start` bepaal je in welke kolom een article begint.
+Met selectoren als `:first-child`, `:nth-of-type(2n)` en `:nth-of-type(2n + 1)` kan je meerdere articles tegelijk aansturen, zonder elk article een eigen class te geven.
+
+### Screenshots
+
+**Sommetje 1**
+![Grid oefening 1, sommetje 1](readme-images/grid/grid-oefening-1-sommetje-01.png)
+
+**Sommetje 2**
+![Grid oefening 1, sommetje 2](readme-images/grid/grid-oefening-1-sommetje-02.png)
+
+**Sommetje 3**
+![Grid oefening 1, sommetje 3](readme-images/grid/grid-oefening-1-sommetje-03.png)
+
+**Sommetje 4**
+![Grid oefening 1, sommetje 4](readme-images/grid/grid-oefening-1-sommetje-04.png)
+
+**Sommetje 5**
+![Grid oefening 1, sommetje 5](readme-images/grid/grid-oefening-1-sommetje-05.png)
+
+**Sommetje 6**
+![Grid oefening 1, sommetje 6](readme-images/grid/grid-oefening-1-sommetje-06.png)
+
+**Sommetje 7**
+![Grid oefening 1, sommetje 7](readme-images/grid/grid-oefening-1-sommetje-07.png)
+
+**Sommetje 8**
+![Grid oefening 1, sommetje 8](readme-images/grid/grid-oefening-1-sommetje-08.png)
+
+**Sommetje 9**
+![Grid oefening 1, sommetje 9](readme-images/grid/grid-oefening-1-sommetje-09.png)
+
+**Sommetje 10**
+![Grid oefening 1, sommetje 10](readme-images/grid/grid-oefening-1-sommetje-10.png)
+
+**Sommetje 11**
+![Grid oefening 1, sommetje 11](readme-images/grid/grid-oefening-1-sommetje-11.png)
+
 ### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
