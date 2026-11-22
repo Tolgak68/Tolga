@@ -36,6 +36,8 @@ Deze vragen heb ik nog. Hoe maak ik het kronkelende pad tussen de levels in CSS?
 
 Als laatste iteratie bouw ik eerst een recht pad van boven naar beneden, zoals de tijdlijn in schets 1. Het kronkelende pad probeer ik later als het rechte pad werkt.
 
+Bij opdracht 13 heb ik net als in het voorbeeld op DLO naar schets 5 gekeken en bij alles gevraagd wat het is. Bovenaan staat mijn naam. Dat is het belangrijkste kopje, dus de h1. De zin eronder is geen kopje maar uitleg dus een p. De levels op het pad staan op volgorde van jaar 1 tot nu en die volgorde is belangrijk. Daarom is het een geordende lijst, een ol met een li per level en geen losse articles. Elk level heeft een h2, een img en een p. Het slotje is de laatste li. Onderaan staan twee links dat is een ul in de footer. De knop voor licht en donker is een keuze, net als de keuzeknoppen in het practicum van Vasilis.
+
 ### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
