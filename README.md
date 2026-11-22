@@ -4,7 +4,7 @@
 
 ### Wat ik wil maken
 
-Ik maak een portfolio als digital garden, over mij als ontwerper. Ik wil daar mijn werk van school laten zien. Ik zou het na dit blok graag blijven bijhouden.
+Mijn digital garden gaat over mijn groei als ontwerper en als persoon. Je ziet niet alleen wat ik maakte, maar vooral wat ik per periode leerde, waar ik vastliep en hoe ik veranderde. Net als een tuin is hij nooit af. Ik zou hem na dit blok graag blijven bijhouden.
 
 ### Wat ik zag en nog niet kan
 
@@ -16,7 +16,7 @@ Bij Ste Grainer en Mike Mai kan je zelf licht, donker of automatisch kiezen. Dat
 
 ### Mijn eigen content
 
-Ik denk aan schetsen, prototypes en eindresultaten van mijn projecten, met wat ik ervan geleerd heb. Het doel is dat je mijn groei als ontwerper kan zien.
+Per periode wil ik laten zien wat ik leerde bijvoorbeeld met een schets naast wat het werd of met iets wat eerst mislukte. Bij Maggie Appleton zag ik dat elke tekst een groeifase heeft, zoals zaadje, kiemplant en boom. Dat vind ik een mooie manier om te laten zien wat nog groeit.
 
 ### Content van anderen
 
@@ -24,7 +24,7 @@ Mijn garden gaat over mijn eigen werk, dus het meeste is van mij. Laat ik iets v
 
 ### Hoe je het kan ervaren
 
-Dat weet ik nog niet precies. Zelf licht of donker kiezen is een idee, omdat ik dat al geoefend heb. In mijn 50 afbeeldingen zag ik veel donkere achtergronden met roze, paars en groen. Dat kan een begin zijn voor mijn kleuren.
+Mijn idee is dat je als in een game langs de periodes loopt van level naar level. Het laatste level zit op slot, omdat ik nog groei. Zelf licht of donker kiezen is ook een idee, omdat ik dat al geoefend heb. In mijn 50 afbeeldingen zag ik veel donkere achtergronden met roze, paars en groen. Dat werden mijn kleuren.
 
 ## Learning Log
 
