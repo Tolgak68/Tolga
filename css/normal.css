@@ -15,24 +15,31 @@
 
 html {
   color-scheme: light dark;
+
+  /* kleuren uit mijn mini style guide, eerst licht dan donker */
+  --achtergrond: light-dark(#f7f4fb, #15111f);
+  --tekst: light-dark(#1e1a2b, #f3effa);
+  --blauw: light-dark(#2f45c8, #5b7cff);
+  --roze: light-dark(#c2185b, #ff5fa8);
+  --paars: light-dark(#6b3fb8, #a77bff);
 }
 
 /**************************
 * MARK: Algemene Styling
 **************************/
 
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
-
-img {
-  max-width: 100%;
-}
-
 body {
   font-family: "Comic Relief", system-ui;
+  background-color: var(--achtergrond);
+  color: var(--tekst);
+}
+
+a {
+  color: var(--blauw);
+}
+
+a:hover {
+  color: var(--roze);
 }
 
 /**************************
