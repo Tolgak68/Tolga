@@ -28,47 +28,7 @@ Dat weet ik nog niet precies. Zelf licht of donker kiezen is een idee, omdat ik 
 
 ## Learning Log
 
-### 19 nov - Zelfstudie schetsen
-
-Voor vrijdag heb ik vijf mobile first schetsen gemaakt van de voorpagina van mijn garden. Ik heb ideeën uit mijn Crazy 8 gebruikt. Schets 1 is mijn naam in losse letters met een tijdlijn. Schets 2 is een rank met mijn projecten eraan. Schets 3 is een game level met een slotje voor wat nog komt. Schets 4 laat de schets achter een project zien als je erop tikt. Schets 5 combineert de losse letters, het game pad en de verstopte schets met een knop voor licht en donker en een footer met links. Bij schets 3, 4 en 5 heb ik ook getekend wat er gebeurt als je tikt.
-
-![Schets 1 met losse letters en tijdlijn en schets 2 met de rank](oefeningen/schetsen/schetsen-mobile-1-en-2.jpg)
-
-![Schets 3 met het game level en schets 4 met de verstopte schets](oefeningen/schetsen/schetsen-mobile-3-en-4.jpg)
-
-![Schets 5 die alles combineert](oefeningen/schetsen/schets-mobile-5.jpg)
-
-Daarna heb ik voor de mini style guide een kleurpalet gemaakt voor donker en voor licht. De kleuren komen uit mijn onderzoek, felle kleuren zoals roze, blauw en paars op een donkere achtergrond. In donker is de achtergrond #15111F en de tekst #F3EFFA. Blauw #5B7CFF is voor links en knoppen, roze #FF5FA8 voor hover en paars #A77BFF voor de tijdlijn en de rank. In licht is de achtergrond #F7F4FB en de tekst #1E1A2B, met donkerdere accenten, blauw #2F45C8, roze #C2185B en paars #6B3FB8. Alle kleuren hebben minstens 4.5 : 1 contrast met de achtergrond, dus ze zijn goed te lezen.
-
-![Mijn donkere kleurpalet in Adobe Color](readme-images/kleurpalet-donker.png)
-
-![Mijn lichte kleurpalet in Adobe Color](readme-images/kleurpalet-licht.png)
-
-Daarna heb ik naar lettertypes gekeken. Ik heb de Seftel poster in Adobe Fonts geüpload. Adobe zag er een geometrisch, zwaar schreefloos lettertype in. Die lettertypes zitten alleen in Adobe en mag ik niet zomaar op mijn site zetten. Net als bij de kleuren ben ik begonnen met voorstellen en die heb ik op Google Fonts vergeleken, want die mag ik gratis als bestand gebruiken zoals in mijn practicum.
-
-![Adobe Fonts analyse van de Seftel poster](readme-images/lettertype-adobe-seftel.png)
-
-Ik heb een lettertype nodig voor mijn naam en kopjes en een voor gewone tekst. De kop mag opvallen en speels zijn. Gewone tekst moet op een telefoon goed leesbaar zijn bij 16px.
-
-Voor de kop heb ik Unbounded, Bungee en Space Grotesk geprobeerd met TOLGA. Unbounded heeft brede ronde zware letters, net als de grote letters op Seftel. Bungee lijkt op letters uit arcade games, dat past bij mijn game level. Space Grotesk is ook geometrisch maar rustiger, als de andere twee te druk worden.
-
-![Unbounded met mijn naam](readme-images/lettertype-unbounded.png)
-
-![Bungee met mijn naam](readme-images/lettertype-bungee.png)
-
-![Space Grotesk met mijn naam](readme-images/lettertype-space-grotesk.png)
-
-Voor gewone tekst heb ik DM Sans en Rubik geprobeerd met de zin Mijn groei als ontwerper en als persoon. DM Sans heeft dezelfde geometrische vormen als de koppen maar is open en goed te lezen. Rubik heeft licht ronde hoeken, daardoor voelt het vriendelijk en blijft het leesbaar.
-
-![DM Sans met een zin](readme-images/lettertype-dm-sans.png)
-
-![Rubik met een zin](readme-images/lettertype-rubik.png)
-
-Ik heb nog geen keuze gemaakt.
-
-Daarna ben ik begonnen met de HTML structuur van mijn garden in [index.html](index.html). Ik ben uitgegaan van schets 5. In de header staat mijn naam als h1 met de zin Mijn groei als ontwerper en als persoon eronder en een nav met een link naar mijn learning log. In de main staat elk project als article met een h2, een collage uit mijn presentatie en een korte tekst. Ze staan op volgorde van jaar 1 tot nu en het laatste article is Binnenkort het level dat nog op slot is. In de footer staan links naar mijn GitHub en mijn mail.
-
-### Practicum kleuren en gradients
+### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
 
@@ -127,6 +87,46 @@ Oefening 3, animeren met @property
 ![Alle zes blokjes klaar](readme-images/gradients/gradients-oefening-3-alle-zes-blokjes.png)
 
 Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com), het practicum mooie kleuren en gradients van Sanne op DLO, de intro CSS kleuren en de intro CSS gradients van Sanne en de oefeningen van Sanne op [CodePen](https://codepen.io).
+
+### 18 nov - Zelfstudie schetsen
+
+Voor vrijdag heb ik vijf mobile first schetsen gemaakt van de voorpagina van mijn garden. Ik heb ideeën uit mijn Crazy 8 gebruikt. Schets 1 is mijn naam in losse letters met een tijdlijn. Schets 2 is een rank met mijn projecten eraan. Schets 3 is een game level met een slotje voor wat nog komt. Schets 4 laat de schets achter een project zien als je erop tikt. Schets 5 combineert de losse letters, het game pad en de verstopte schets met een knop voor licht en donker en een footer met links. Bij schets 3, 4 en 5 heb ik ook getekend wat er gebeurt als je tikt.
+
+![Schets 1 met losse letters en tijdlijn en schets 2 met de rank](oefeningen/schetsen/schetsen-mobile-1-en-2.jpg)
+
+![Schets 3 met het game level en schets 4 met de verstopte schets](oefeningen/schetsen/schetsen-mobile-3-en-4.jpg)
+
+![Schets 5 die alles combineert](oefeningen/schetsen/schets-mobile-5.jpg)
+
+Daarna heb ik voor de mini style guide een kleurpalet gemaakt voor donker en voor licht. De kleuren komen uit mijn onderzoek, felle kleuren zoals roze, blauw en paars op een donkere achtergrond. In donker is de achtergrond #15111F en de tekst #F3EFFA. Blauw #5B7CFF is voor links en knoppen, roze #FF5FA8 voor hover en paars #A77BFF voor de tijdlijn en de rank. In licht is de achtergrond #F7F4FB en de tekst #1E1A2B, met donkerdere accenten, blauw #2F45C8, roze #C2185B en paars #6B3FB8. Alle kleuren hebben minstens 4.5 : 1 contrast met de achtergrond, dus ze zijn goed te lezen.
+
+![Mijn donkere kleurpalet in Adobe Color](readme-images/kleurpalet-donker.png)
+
+![Mijn lichte kleurpalet in Adobe Color](readme-images/kleurpalet-licht.png)
+
+Daarna heb ik naar lettertypes gekeken. Ik heb de Seftel poster in Adobe Fonts geüpload. Adobe zag er een geometrisch, zwaar schreefloos lettertype in. Die lettertypes zitten alleen in Adobe en mag ik niet zomaar op mijn site zetten. Net als bij de kleuren ben ik begonnen met voorstellen en die heb ik op Google Fonts vergeleken, want die mag ik gratis als bestand gebruiken zoals in mijn practicum.
+
+![Adobe Fonts analyse van de Seftel poster](readme-images/lettertype-adobe-seftel.png)
+
+Ik heb een lettertype nodig voor mijn naam en kopjes en een voor gewone tekst. De kop mag opvallen en speels zijn. Gewone tekst moet op een telefoon goed leesbaar zijn bij 16px.
+
+Voor de kop heb ik Unbounded, Bungee en Space Grotesk geprobeerd met TOLGA. Unbounded heeft brede ronde zware letters, net als de grote letters op Seftel. Bungee lijkt op letters uit arcade games, dat past bij mijn game level. Space Grotesk is ook geometrisch maar rustiger, als de andere twee te druk worden.
+
+![Unbounded met mijn naam](readme-images/lettertype-unbounded.png)
+
+![Bungee met mijn naam](readme-images/lettertype-bungee.png)
+
+![Space Grotesk met mijn naam](readme-images/lettertype-space-grotesk.png)
+
+Voor gewone tekst heb ik DM Sans en Rubik geprobeerd met de zin Mijn groei als ontwerper en als persoon. DM Sans heeft dezelfde geometrische vormen als de koppen maar is open en goed te lezen. Rubik heeft licht ronde hoeken, daardoor voelt het vriendelijk en blijft het leesbaar.
+
+![DM Sans met een zin](readme-images/lettertype-dm-sans.png)
+
+![Rubik met een zin](readme-images/lettertype-rubik.png)
+
+Ik heb nog geen keuze gemaakt.
+
+Daarna ben ik begonnen met de HTML structuur van mijn garden in [index.html](index.html). Ik ben uitgegaan van schets 5. In de header staat mijn naam als h1 met de zin Mijn groei als ontwerper en als persoon eronder en een nav met een link naar mijn learning log. In de main staat elk project als article met een h2, een collage uit mijn presentatie en een korte tekst. Ze staan op volgorde van jaar 1 tot nu en het laatste article is Binnenkort het level dat nog op slot is. In de footer staan links naar mijn GitHub en mijn mail.
 
 ### 18 nov - Werkgroep 2
 
@@ -224,7 +224,7 @@ Oefening 2 was een kattenwinkel die helemaal grijs begon. Die heb ik in drie stu
 
 Bronnen zijn het practicum Light & Dark van Vasilis op DLO en de CodePens van de docenten.
 
-### 17 nov - Presentatie digital garden
+### 16 nov - Presentatie digital garden
 
 Mijn onderwerp is ik als ontwerper. Ik wil een portfolio bouwen waarin je kan zien hoe ik groei als ontwerper.
 
