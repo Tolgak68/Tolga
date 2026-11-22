@@ -28,6 +28,14 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 20 nov - Werkgroep 3
+
+Bij opdracht 12 heb ik gekeken hoe ik mijn schetsen ga bouwen. Ik ga uit van schets 5. In de header staat mijn naam als h1, de zin Mijn groei als ontwerper en als persoon als p en een keuze voor licht en donker zoals in het practicum van Vasilis. In de main staan mijn periodes op volgorde als levels. Elk level heeft een kopje, een beeld en een korte tekst over wat ik in die periode leerde. Het laatste level zit op slot en heeft geen link. In de footer staan mijn links naar GitHub en mijn mail. In de CSS komen mijn kleuren als custom properties met light-dark() en mijn lettertype met @font-face.
+
+Deze vragen heb ik nog. Hoe maak ik het kronkelende pad tussen de levels in CSS? Zijn mijn levels een lijst of losse articles? Laat ik de schets zien bij hover of bij een klik? Die heb ik nog niet aan een docent gesteld.
+
+Als laatste iteratie bouw ik eerst een recht pad van boven naar beneden, zoals de tijdlijn in schets 1. Het kronkelende pad probeer ik later als het rechte pad werkt.
+
 ### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
