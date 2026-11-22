@@ -103,6 +103,91 @@ Met selectoren als `:first-child`, `:nth-of-type(2n)` en `:nth-of-type(2n + 1)` 
 **Sommetje 11**
 ![Grid oefening 1, sommetje 11](readme-images/grid/grid-oefening-1-sommetje-11.png)
 
+## Grid oefening 2
+
+### Wat ik heb gedaan
+
+Ik heb de pen geforkt en in style.css de code van stap 1 tot en met 4 onder de commentaarregels `/* stap 1 */` tot en met `/* stap 4 */` gezet. Bij deze oefening bouwt elke stap verder op de vorige dus de code van de vorige stap blijft staan. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
+
+### Wat je per stap ziet
+
+De card wordt een grid met twee kolommen. Titel, plaatje, tekst en link vullen die kolommen gewoon op volgorde.
+Het plaatje staat links over drie rijen en titel, tekst en link staan rechts onder elkaar.
+Er komt ruimte tussen het plaatje en de tekst en tussen de regels rechts.
+De link staat onderaan, omdat de middelste rij met de tekst de rest van de hoogte krijgt.
+
+### Wat ik heb geleerd
+
+Je kan ook een klein onderdeel zoals een card een grid maken, niet alleen de hele pagina.
+Als je niks zegt, vullen de onderdelen de grid gewoon op volgorde. Pas als je ze een plek geeft, krijg je de lay-out die je wil.
+Met `grid-row` kan je een onderdeel over meerdere rijen laten lopen, zoals het plaatje over drie rijen.
+Met `gap` zet je ruimte tussen kolommen en rijen in één keer.
+Met `1fr` in de rijen geef je één rij alle ruimte die over is. Zo duw je de link naar onderen zonder margin of position.
+
+### Screenshots
+
+**Stap 1**
+![Grid oefening 2, stap 1](readme-images/grid/grid-oefening-2-stap-1.png)
+
+**Stap 2**
+![Grid oefening 2, stap 2](readme-images/grid/grid-oefening-2-stap-2.png)
+
+**Stap 3**
+![Grid oefening 2, stap 3](readme-images/grid/grid-oefening-2-stap-3.png)
+
+**Stap 4**
+![Grid oefening 2, stap 4](readme-images/grid/grid-oefening-2-stap-4.png)
+
+## Grid oefening 3
+
+### Wat ik heb gedaan
+
+Ik heb de pen geforkt en stap 1 tot en met 9 elk onder de eigen commentaarregel gezet, ook binnen de drie `@media (width > 38em)` blokken. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
+
+### Een keuze die ik heb gemaakt
+
+Stap 8 staat bij mij binnen de media query. In deze pen staat het commentaar `/* stap 8 */` binnen de `@media` van article, dus daar heb ik `column-gap: 1rem;` neergezet. Het werkt ook als je het erbuiten zet, want met één kolom doet `column-gap` niks.
+
+### Wat ik heb geleerd
+
+**Een `@media` binnen een blok (nesting).** In deze pen staat de `@media` binnen het blok van article, img of a. Die regels gelden dan alleen voor dat element, en alleen als het scherm breder is dan 38em. Zo staat alles van één element bij elkaar.
+**em omrekenen naar pixels.** 38em is 608 pixels, omdat 1em standaard 16 pixels is.
+**`column-gap`** zet alleen ruimte tussen kolommen. Als je maar één kolom hebt, dan zie je er niks van.
+
+### Screenshots
+
+Vanaf stap 5 heb ik de brede versie vastgelegd (preview 810 pixels). Van de eindstand heb ik ook een smalle versie gemaakt, met de preview op 439 pixels.
+
+**Stap 1**
+![Grid oefening 3, stap 1](readme-images/grid/grid-oefening-3-stap-1.png)
+
+**Stap 2**
+![Grid oefening 3, stap 2](readme-images/grid/grid-oefening-3-stap-2.png)
+
+**Stap 3**
+![Grid oefening 3, stap 3](readme-images/grid/grid-oefening-3-stap-3.png)
+
+**Stap 4**
+![Grid oefening 3, stap 4](readme-images/grid/grid-oefening-3-stap-4.png)
+
+**Stap 5 (breed)**
+![Grid oefening 3, stap 5 breed](readme-images/grid/grid-oefening-3-stap-5-breed.png)
+
+**Stap 6 (breed)**
+![Grid oefening 3, stap 6 breed](readme-images/grid/grid-oefening-3-stap-6-breed.png)
+
+**Stap 7 (breed)**
+![Grid oefening 3, stap 7 breed](readme-images/grid/grid-oefening-3-stap-7-breed.png)
+
+**Stap 8 (breed)**
+![Grid oefening 3, stap 8 breed](readme-images/grid/grid-oefening-3-stap-8-breed.png)
+
+**Stap 9 (breed)**
+![Grid oefening 3, stap 9 breed](readme-images/grid/grid-oefening-3-stap-9-breed.png)
+
+**Stap 9 (smal)**
+![Grid oefening 3, stap 9 smal](readme-images/grid/grid-oefening-3-stap-9-smal.png)
+
 ### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
