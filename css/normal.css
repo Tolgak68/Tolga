@@ -28,18 +28,25 @@ html {
 * MARK: Algemene Styling
 **************************/
 
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 body {
+  max-width: 30em;
+  margin: auto;
+  padding: 1em;
   font-family: "Comic Relief", system-ui;
   background-color: var(--achtergrond);
   color: var(--tekst);
-}
-
-a {
-  color: var(--blauw);
-}
-
-a:hover {
-  color: var(--roze);
 }
 
 /**************************
