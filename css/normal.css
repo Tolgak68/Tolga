@@ -3,8 +3,15 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
+  font-family: "Bungee";
+  src: url(../fonts/Bungee-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url(../fonts/Rubik-VariableFont_wght.ttf);
   font-weight: 400;
   font-style: normal;
 }
@@ -44,9 +51,23 @@ body {
   max-width: 30em;
   margin: auto;
   padding: 1em;
-  font-family: "Comic Relief", system-ui;
+  font-family: "Rubik", system-ui;
   background-color: var(--achtergrond);
   color: var(--tekst);
+}
+
+h1,
+h2 {
+  font-family: "Bungee", system-ui;
+  font-weight: 400;
+}
+
+a {
+  color: var(--blauw);
+}
+
+a:hover {
+  color: var(--roze);
 }
 
 /**************************
