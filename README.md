@@ -28,6 +28,150 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 20 nov - Practicum Grid en media queries
+
+Ik heb het practicum Grid 101 en media queries 101 van Sanne gedaan in CodePen. Mijn pennen zijn [oefening 1](https://codepen.io/editor/Tolga-Kece/pen/01a20348-f3fe-74c5-893a-78835c5f1c67), [oefening 2](https://codepen.io/editor/Tolga-Kece/pen/01a20363-20b2-719f-a73a-76eaf196a195), [oefening 3](https://codepen.io/editor/Tolga-Kece/pen/01a20388-1c55-76ce-bd9d-fe248ed83866) en [oefening 4](https://codepen.io/editor/Tolga-Kece/pen/01a2039c-aed2-765e-bbc1-cef5d5063f0a).
+
+Oefening 1, meet the properties
+
+Ik heb de pen "code voor jou" geforkt en in style.css de elf sommetjes één voor één gemaakt. Na elk sommetje heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt van de code en de preview naast elkaar. De algemene styling van de articles heb ik niet aangepast.
+
+Met `display: grid` op `main` maak je van de pagina een grid. De articles worden dan automatisch de vakjes.
+Met `grid-template-columns: 1fr 1fr 1fr` maak je drie even brede kolommen. `fr` betekent een deel van de ruimte die over is.
+Met `gap` zet je ruimte tussen de vakjes, zonder margin te gebruiken.
+Met `grid-column-start` bepaal je in welke kolom een article begint.
+Met selectoren als `:first-child`, `:nth-of-type(2n)` en `:nth-of-type(2n + 1)` kan je meerdere articles tegelijk aansturen, zonder elk article een eigen class te geven.
+
+![Grid oefening 1, sommetje 1](readme-images/grid/grid-oefening-1-sommetje-01.png)
+
+![Grid oefening 1, sommetje 2](readme-images/grid/grid-oefening-1-sommetje-02.png)
+
+![Grid oefening 1, sommetje 3](readme-images/grid/grid-oefening-1-sommetje-03.png)
+
+![Grid oefening 1, sommetje 4](readme-images/grid/grid-oefening-1-sommetje-04.png)
+
+![Grid oefening 1, sommetje 5](readme-images/grid/grid-oefening-1-sommetje-05.png)
+
+![Grid oefening 1, sommetje 6](readme-images/grid/grid-oefening-1-sommetje-06.png)
+
+![Grid oefening 1, sommetje 7](readme-images/grid/grid-oefening-1-sommetje-07.png)
+
+![Grid oefening 1, sommetje 8](readme-images/grid/grid-oefening-1-sommetje-08.png)
+
+![Grid oefening 1, sommetje 9](readme-images/grid/grid-oefening-1-sommetje-09.png)
+
+![Grid oefening 1, sommetje 10](readme-images/grid/grid-oefening-1-sommetje-10.png)
+
+![Grid oefening 1, sommetje 11](readme-images/grid/grid-oefening-1-sommetje-11.png)
+
+Oefening 2, cards 101
+
+Ik heb de pen geforkt en in style.css de code van stap 1 tot en met 4 onder de commentaarregels `/* stap 1 */` tot en met `/* stap 4 */` gezet. Bij deze oefening bouwt elke stap verder op de vorige dus de code van de vorige stap blijft staan. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
+
+De card wordt een grid met twee kolommen. Titel, plaatje, tekst en link vullen die kolommen gewoon op volgorde.
+Het plaatje staat links over drie rijen en titel, tekst en link staan rechts onder elkaar.
+Er komt ruimte tussen het plaatje en de tekst en tussen de regels rechts.
+De link staat onderaan, omdat de middelste rij met de tekst de rest van de hoogte krijgt.
+
+Je kan ook een klein onderdeel zoals een card een grid maken, niet alleen de hele pagina.
+Als je niks zegt, vullen de onderdelen de grid gewoon op volgorde. Pas als je ze een plek geeft, krijg je de lay-out die je wil.
+Met `grid-row` kan je een onderdeel over meerdere rijen laten lopen, zoals het plaatje over drie rijen.
+Met `gap` zet je ruimte tussen kolommen en rijen in één keer.
+Met `1fr` in de rijen geef je één rij alle ruimte die over is. Zo duw je de link naar onderen zonder margin of position.
+
+![Grid oefening 2, stap 1](readme-images/grid/grid-oefening-2-stap-1.png)
+
+![Grid oefening 2, stap 2](readme-images/grid/grid-oefening-2-stap-2.png)
+
+![Grid oefening 2, stap 3](readme-images/grid/grid-oefening-2-stap-3.png)
+
+![Grid oefening 2, stap 4](readme-images/grid/grid-oefening-2-stap-4.png)
+
+Oefening 3, responsive card
+
+Ik heb de pen geforkt en stap 1 tot en met 9 elk onder de eigen commentaarregel gezet, ook binnen de drie `@media (width > 38em)` blokken. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
+
+Stap 8 staat bij mij binnen de media query. In deze pen staat het commentaar `/* stap 8 */` binnen de `@media` van article, dus daar heb ik `column-gap: 1rem;` neergezet. Het werkt ook als je het erbuiten zet, want met één kolom doet `column-gap` niks.
+
+Een `@media` binnen een blok (nesting). In deze pen staat de `@media` binnen het blok van article, img of a. Die regels gelden dan alleen voor dat element, en alleen als het scherm breder is dan 38em. Zo staat alles van één element bij elkaar.
+em omrekenen naar pixels. 38em is 608 pixels, omdat 1em standaard 16 pixels is.
+`column-gap` zet alleen ruimte tussen kolommen. Als je maar één kolom hebt, dan zie je er niks van.
+
+Vanaf stap 5 heb ik de brede versie vastgelegd (preview 810 pixels). Van de eindstand heb ik ook een smalle versie gemaakt, met de preview op 439 pixels.
+
+![Grid oefening 3, stap 1](readme-images/grid/grid-oefening-3-stap-1.png)
+
+![Grid oefening 3, stap 2](readme-images/grid/grid-oefening-3-stap-2.png)
+
+![Grid oefening 3, stap 3](readme-images/grid/grid-oefening-3-stap-3.png)
+
+![Grid oefening 3, stap 4](readme-images/grid/grid-oefening-3-stap-4.png)
+
+![Grid oefening 3, stap 5 breed](readme-images/grid/grid-oefening-3-stap-5-breed.png)
+
+![Grid oefening 3, stap 6 breed](readme-images/grid/grid-oefening-3-stap-6-breed.png)
+
+![Grid oefening 3, stap 7 breed](readme-images/grid/grid-oefening-3-stap-7-breed.png)
+
+![Grid oefening 3, stap 8 breed](readme-images/grid/grid-oefening-3-stap-8-breed.png)
+
+![Grid oefening 3, stap 9 breed](readme-images/grid/grid-oefening-3-stap-9-breed.png)
+
+![Grid oefening 3, stap 9 smal](readme-images/grid/grid-oefening-3-stap-9-smal.png)
+
+Oefening 4, een grid met cards
+
+Ik heb de pen geforkt en stap 1 tot en met 15 elk onder de eigen commentaarregel gezet. Stap 4 staat in vier blokken, `p:nth-of-type(1)`, `p:nth-of-type(2)`, `img` en `a`. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
+
+De code van stap 12 staat bij mij in het blok van de rating onder het commentaar `/* stap 9 */`. In de pen van Sanne heet het commentaar daar zo. Het commentaar heb ik niet veranderd.
+
+Ik heb de preview smaller en breder gemaakt. Op 439 pixels staat er één card per rij, op 810 pixels twee en op 1319 pixels vier. Daar is geen media query voor nodig.
+
+Een card kan zelf een grid zijn binnen een grid. De body zet de cards naast elkaar en elke card zet zijn eigen onderdelen op hun plek.
+Met `grid-template-columns: 1fr max-content` krijgt de eerste kolom alle ruimte die over is en is de tweede kolom zo breed als de knop.
+Met `grid-row-start` zet je een onderdeel op een andere plek dan in de HTML. Het plaatje staat in de HTML na de rating, maar door `grid-row-start: 1` staat het bovenaan.
+Met `repeat(auto-fit, minmax(min(16em, 100%), 1fr))` maakt de browser zelf kolommen erbij of haalt hij ze weg. `min(16em, 100%)` zorgt dat het ook op een heel smal scherm past.
+Met `1fr` in `grid-template-rows` krijgt de rij met de tekst de ruimte die over is. Daardoor staan de links in alle cards onderaan.
+Met `min-content` wordt een kolom zo smal als het langste woord. Daardoor staan buy en de prijs in de knop onder elkaar.
+
+De preview was bij de stappen 810 pixels breed. Van de eindstand heb ik ook een smalle versie gemaakt op 439 pixels en een brede op 1319 pixels.
+
+![Grid oefening 4, stap 1](readme-images/grid/grid-oefening-4-stap-1.png)
+
+![Grid oefening 4, stap 2](readme-images/grid/grid-oefening-4-stap-2.png)
+
+![Grid oefening 4, stap 3](readme-images/grid/grid-oefening-4-stap-3.png)
+
+![Grid oefening 4, stap 4](readme-images/grid/grid-oefening-4-stap-4.png)
+
+![Grid oefening 4, stap 5](readme-images/grid/grid-oefening-4-stap-5.png)
+
+![Grid oefening 4, stap 6](readme-images/grid/grid-oefening-4-stap-6.png)
+
+![Grid oefening 4, stap 7](readme-images/grid/grid-oefening-4-stap-7.png)
+
+![Grid oefening 4, stap 8](readme-images/grid/grid-oefening-4-stap-8.png)
+
+![Grid oefening 4, stap 9](readme-images/grid/grid-oefening-4-stap-9.png)
+
+![Grid oefening 4, stap 10](readme-images/grid/grid-oefening-4-stap-10.png)
+
+![Grid oefening 4, stap 11](readme-images/grid/grid-oefening-4-stap-11.png)
+
+![Grid oefening 4, stap 12](readme-images/grid/grid-oefening-4-stap-12.png)
+
+![Grid oefening 4, stap 13](readme-images/grid/grid-oefening-4-stap-13.png)
+
+![Grid oefening 4, stap 14](readme-images/grid/grid-oefening-4-stap-14.png)
+
+![Grid oefening 4, stap 15](readme-images/grid/grid-oefening-4-stap-15.png)
+
+![Grid oefening 4, stap 15 smal](readme-images/grid/grid-oefening-4-stap-15-smal.png)
+
+![Grid oefening 4, stap 15 breed](readme-images/grid/grid-oefening-4-stap-15-breed.png)
+
+Bronnen zijn het practicum Grid 101 en media queries 101 van Sanne op DLO, de intro CSS grid en de intro media queries van Sanne en de oefeningen van Sanne op [CodePen](https://codepen.io).
+
 ### 20 nov - Werkgroep 3
 
 Bij opdracht 12 heb ik gekeken hoe ik mijn schetsen ga bouwen. Ik ga uit van schets 5. In de header staat mijn naam als h1, de zin Mijn groei als ontwerper en als persoon als p en een keuze voor licht en donker zoals in het practicum van Vasilis. In de main staan mijn periodes op volgorde als levels. Elk level heeft een kopje, een beeld en een korte tekst over wat ik in die periode leerde. Het laatste level zit op slot en heeft geen link. In de footer staan mijn links naar GitHub en mijn mail. In de CSS komen mijn kleuren als custom properties met light-dark() en mijn lettertype met @font-face.
@@ -53,218 +197,6 @@ Diederik was positief over mijn onderzoek. Hij vond dat mijn keuzes een goede re
 Welke feedback heb je gehad? Sanne vond dat mijn garden op een portfolio leek. Daarom gaat hij nu over wat ik per periode leerde. Diederik was positief over mijn onderzoek en mijn schetsen.
 
 Bronnen zijn de opdrachten van werkgroep 3 op DLO, de intro CSS grid van Sanne op DLO, mijn eigen productbiografieën en design rationales en Bungee en Rubik van Google Fonts.
-
-## Grid oefening 1
-
-### Wat ik heb gedaan
-
-Ik heb de pen "code voor jou" geforkt en in style.css de elf sommetjes één voor één gemaakt. Na elk sommetje heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt van de code en de preview naast elkaar. De algemene styling van de articles heb ik niet aangepast.
-
-### Wat ik heb geleerd
-
-Met `display: grid` op `main` maak je van de pagina een grid. De articles worden dan automatisch de vakjes.
-Met `grid-template-columns: 1fr 1fr 1fr` maak je drie even brede kolommen. `fr` betekent een deel van de ruimte die over is.
-Met `gap` zet je ruimte tussen de vakjes, zonder margin te gebruiken.
-Met `grid-column-start` bepaal je in welke kolom een article begint.
-Met selectoren als `:first-child`, `:nth-of-type(2n)` en `:nth-of-type(2n + 1)` kan je meerdere articles tegelijk aansturen, zonder elk article een eigen class te geven.
-
-### Screenshots
-
-**Sommetje 1**
-![Grid oefening 1, sommetje 1](readme-images/grid/grid-oefening-1-sommetje-01.png)
-
-**Sommetje 2**
-![Grid oefening 1, sommetje 2](readme-images/grid/grid-oefening-1-sommetje-02.png)
-
-**Sommetje 3**
-![Grid oefening 1, sommetje 3](readme-images/grid/grid-oefening-1-sommetje-03.png)
-
-**Sommetje 4**
-![Grid oefening 1, sommetje 4](readme-images/grid/grid-oefening-1-sommetje-04.png)
-
-**Sommetje 5**
-![Grid oefening 1, sommetje 5](readme-images/grid/grid-oefening-1-sommetje-05.png)
-
-**Sommetje 6**
-![Grid oefening 1, sommetje 6](readme-images/grid/grid-oefening-1-sommetje-06.png)
-
-**Sommetje 7**
-![Grid oefening 1, sommetje 7](readme-images/grid/grid-oefening-1-sommetje-07.png)
-
-**Sommetje 8**
-![Grid oefening 1, sommetje 8](readme-images/grid/grid-oefening-1-sommetje-08.png)
-
-**Sommetje 9**
-![Grid oefening 1, sommetje 9](readme-images/grid/grid-oefening-1-sommetje-09.png)
-
-**Sommetje 10**
-![Grid oefening 1, sommetje 10](readme-images/grid/grid-oefening-1-sommetje-10.png)
-
-**Sommetje 11**
-![Grid oefening 1, sommetje 11](readme-images/grid/grid-oefening-1-sommetje-11.png)
-
-## Grid oefening 2
-
-### Wat ik heb gedaan
-
-Ik heb de pen geforkt en in style.css de code van stap 1 tot en met 4 onder de commentaarregels `/* stap 1 */` tot en met `/* stap 4 */` gezet. Bij deze oefening bouwt elke stap verder op de vorige dus de code van de vorige stap blijft staan. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
-
-### Wat je per stap ziet
-
-De card wordt een grid met twee kolommen. Titel, plaatje, tekst en link vullen die kolommen gewoon op volgorde.
-Het plaatje staat links over drie rijen en titel, tekst en link staan rechts onder elkaar.
-Er komt ruimte tussen het plaatje en de tekst en tussen de regels rechts.
-De link staat onderaan, omdat de middelste rij met de tekst de rest van de hoogte krijgt.
-
-### Wat ik heb geleerd
-
-Je kan ook een klein onderdeel zoals een card een grid maken, niet alleen de hele pagina.
-Als je niks zegt, vullen de onderdelen de grid gewoon op volgorde. Pas als je ze een plek geeft, krijg je de lay-out die je wil.
-Met `grid-row` kan je een onderdeel over meerdere rijen laten lopen, zoals het plaatje over drie rijen.
-Met `gap` zet je ruimte tussen kolommen en rijen in één keer.
-Met `1fr` in de rijen geef je één rij alle ruimte die over is. Zo duw je de link naar onderen zonder margin of position.
-
-### Screenshots
-
-**Stap 1**
-![Grid oefening 2, stap 1](readme-images/grid/grid-oefening-2-stap-1.png)
-
-**Stap 2**
-![Grid oefening 2, stap 2](readme-images/grid/grid-oefening-2-stap-2.png)
-
-**Stap 3**
-![Grid oefening 2, stap 3](readme-images/grid/grid-oefening-2-stap-3.png)
-
-**Stap 4**
-![Grid oefening 2, stap 4](readme-images/grid/grid-oefening-2-stap-4.png)
-
-## Grid oefening 3
-
-### Wat ik heb gedaan
-
-Ik heb de pen geforkt en stap 1 tot en met 9 elk onder de eigen commentaarregel gezet, ook binnen de drie `@media (width > 38em)` blokken. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
-
-### Een keuze die ik heb gemaakt
-
-Stap 8 staat bij mij binnen de media query. In deze pen staat het commentaar `/* stap 8 */` binnen de `@media` van article, dus daar heb ik `column-gap: 1rem;` neergezet. Het werkt ook als je het erbuiten zet, want met één kolom doet `column-gap` niks.
-
-### Wat ik heb geleerd
-
-**Een `@media` binnen een blok (nesting).** In deze pen staat de `@media` binnen het blok van article, img of a. Die regels gelden dan alleen voor dat element, en alleen als het scherm breder is dan 38em. Zo staat alles van één element bij elkaar.
-**em omrekenen naar pixels.** 38em is 608 pixels, omdat 1em standaard 16 pixels is.
-**`column-gap`** zet alleen ruimte tussen kolommen. Als je maar één kolom hebt, dan zie je er niks van.
-
-### Screenshots
-
-Vanaf stap 5 heb ik de brede versie vastgelegd (preview 810 pixels). Van de eindstand heb ik ook een smalle versie gemaakt, met de preview op 439 pixels.
-
-**Stap 1**
-![Grid oefening 3, stap 1](readme-images/grid/grid-oefening-3-stap-1.png)
-
-**Stap 2**
-![Grid oefening 3, stap 2](readme-images/grid/grid-oefening-3-stap-2.png)
-
-**Stap 3**
-![Grid oefening 3, stap 3](readme-images/grid/grid-oefening-3-stap-3.png)
-
-**Stap 4**
-![Grid oefening 3, stap 4](readme-images/grid/grid-oefening-3-stap-4.png)
-
-**Stap 5 (breed)**
-![Grid oefening 3, stap 5 breed](readme-images/grid/grid-oefening-3-stap-5-breed.png)
-
-**Stap 6 (breed)**
-![Grid oefening 3, stap 6 breed](readme-images/grid/grid-oefening-3-stap-6-breed.png)
-
-**Stap 7 (breed)**
-![Grid oefening 3, stap 7 breed](readme-images/grid/grid-oefening-3-stap-7-breed.png)
-
-**Stap 8 (breed)**
-![Grid oefening 3, stap 8 breed](readme-images/grid/grid-oefening-3-stap-8-breed.png)
-
-**Stap 9 (breed)**
-![Grid oefening 3, stap 9 breed](readme-images/grid/grid-oefening-3-stap-9-breed.png)
-
-**Stap 9 (smal)**
-![Grid oefening 3, stap 9 smal](readme-images/grid/grid-oefening-3-stap-9-smal.png)
-
-## Grid oefening 4
-
-### Wat ik heb gedaan
-
-Ik heb de pen geforkt en stap 1 tot en met 15 elk onder de eigen commentaarregel gezet. Stap 4 staat in vier blokken, `p:nth-of-type(1)`, `p:nth-of-type(2)`, `img` en `a`. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
-
-### Een keuze die ik heb gemaakt
-
-De code van stap 12 staat bij mij in het blok van de rating onder het commentaar `/* stap 9 */`. In de pen van Sanne heet het commentaar daar zo. Het commentaar heb ik niet veranderd.
-
-### Wat ik heb getest
-
-Ik heb de preview smaller en breder gemaakt. Op 439 pixels staat er één card per rij, op 810 pixels twee en op 1319 pixels vier. Daar is geen media query voor nodig.
-
-### Wat ik heb geleerd
-
-Een card kan zelf een grid zijn binnen een grid. De body zet de cards naast elkaar en elke card zet zijn eigen onderdelen op hun plek.
-Met `grid-template-columns: 1fr max-content` krijgt de eerste kolom alle ruimte die over is en is de tweede kolom zo breed als de knop.
-Met `grid-row-start` zet je een onderdeel op een andere plek dan in de HTML. Het plaatje staat in de HTML na de rating, maar door `grid-row-start: 1` staat het bovenaan.
-Met `repeat(auto-fit, minmax(min(16em, 100%), 1fr))` maakt de browser zelf kolommen erbij of haalt hij ze weg. `min(16em, 100%)` zorgt dat het ook op een heel smal scherm past.
-Met `1fr` in `grid-template-rows` krijgt de rij met de tekst de ruimte die over is. Daardoor staan de links in alle cards onderaan.
-Met `min-content` wordt een kolom zo smal als het langste woord. Daardoor staan buy en de prijs in de knop onder elkaar.
-
-### Screenshots
-
-De preview was bij de stappen 810 pixels breed. Van de eindstand heb ik ook een smalle versie gemaakt op 439 pixels en een brede op 1319 pixels.
-
-**Stap 1**
-![Grid oefening 4, stap 1](readme-images/grid/grid-oefening-4-stap-1.png)
-
-**Stap 2**
-![Grid oefening 4, stap 2](readme-images/grid/grid-oefening-4-stap-2.png)
-
-**Stap 3**
-![Grid oefening 4, stap 3](readme-images/grid/grid-oefening-4-stap-3.png)
-
-**Stap 4**
-![Grid oefening 4, stap 4](readme-images/grid/grid-oefening-4-stap-4.png)
-
-**Stap 5**
-![Grid oefening 4, stap 5](readme-images/grid/grid-oefening-4-stap-5.png)
-
-**Stap 6**
-![Grid oefening 4, stap 6](readme-images/grid/grid-oefening-4-stap-6.png)
-
-**Stap 7**
-![Grid oefening 4, stap 7](readme-images/grid/grid-oefening-4-stap-7.png)
-
-**Stap 8**
-![Grid oefening 4, stap 8](readme-images/grid/grid-oefening-4-stap-8.png)
-
-**Stap 9**
-![Grid oefening 4, stap 9](readme-images/grid/grid-oefening-4-stap-9.png)
-
-**Stap 10**
-![Grid oefening 4, stap 10](readme-images/grid/grid-oefening-4-stap-10.png)
-
-**Stap 11**
-![Grid oefening 4, stap 11](readme-images/grid/grid-oefening-4-stap-11.png)
-
-**Stap 12**
-![Grid oefening 4, stap 12](readme-images/grid/grid-oefening-4-stap-12.png)
-
-**Stap 13**
-![Grid oefening 4, stap 13](readme-images/grid/grid-oefening-4-stap-13.png)
-
-**Stap 14**
-![Grid oefening 4, stap 14](readme-images/grid/grid-oefening-4-stap-14.png)
-
-**Stap 15**
-![Grid oefening 4, stap 15](readme-images/grid/grid-oefening-4-stap-15.png)
-
-**Stap 15 (smal)**
-![Grid oefening 4, stap 15 smal](readme-images/grid/grid-oefening-4-stap-15-smal.png)
-
-**Stap 15 (breed)**
-![Grid oefening 4, stap 15 breed](readme-images/grid/grid-oefening-4-stap-15-breed.png)
 
 ### 18 nov - Practicum kleuren en gradients
 
@@ -324,7 +256,7 @@ Oefening 3, animeren met @property
 
 ![Alle zes blokjes klaar](readme-images/gradients/gradients-oefening-3-alle-zes-blokjes.png)
 
-Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com), het practicum mooie kleuren en gradients van Sanne op DLO, de intro CSS kleuren en de intro CSS gradients van Sanne en de oefeningen van Sanne op [CodePen](https://codepen.io).
+Bronnen zijn het practicum mooie kleuren en gradients van Sanne op DLO, de intro CSS kleuren en de intro CSS gradients van Sanne en de oefeningen van Sanne op [CodePen](https://codepen.io).
 
 ### 18 nov - Zelfstudie schetsen
 
@@ -365,6 +297,8 @@ Voor gewone tekst heb ik DM Sans en Rubik geprobeerd met de zin Mijn groei als o
 Ik heb nog geen keuze gemaakt.
 
 Daarna ben ik begonnen met de HTML structuur van mijn garden in [index.html](index.html). Ik ben uitgegaan van schets 5. In de header staat mijn naam als h1 met de zin Mijn groei als ontwerper en als persoon eronder en een nav met een link naar mijn learning log. In de main staat elk project als article met een h2, een collage uit mijn presentatie en een korte tekst. Ze staan op volgorde van jaar 1 tot nu en het laatste article is Binnenkort het level dat nog op slot is. In de footer staan links naar mijn GitHub en mijn mail.
+
+Bronnen zijn de randvoorwaarden schetsen, de Deep Dive schetsen en de opdracht mini styleguide op DLO, [Adobe Color](https://color.adobe.com/create/color-wheel), [Adobe Fonts](https://fonts.adobe.com) en [Google Fonts](https://fonts.google.com).
 
 ### 18 nov - Werkgroep 2
 
@@ -439,7 +373,7 @@ Bij oefening 3 heb ik van een foto met hardlopers een responsive afbeelding gema
 ![Oefening 3 in donker op een breed scherm](readme-images/17nov-oefening3-donker-breed.png)
 ![Oefening 3 in donker op een smal scherm](readme-images/17nov-oefening3-donker-smal.png)
 
-Bij oefening 1 en 2 van Vasilis heb ik met custom properties een licht en donker thema gemaakt in CodePen. Eerst heb ik de pen geforkt. Ik keek de code op DLO, Ik heb die gelezen, in mijn fork gezet en na elk stuk getest.
+Bij oefening 1 en 2 van Vasilis heb ik met custom properties een licht en donker thema gemaakt in CodePen. Eerst heb ik de pen geforkt. Ik keek de code op DLO. Ik heb die gelezen, in mijn fork gezet en na elk stuk getest.
 
 Bij oefening 1 heb ik in de html selector custom properties gemaakt voor de achtergrond, de tekst, de rand en de kop. In body en h1 gebruik ik ze met var(). Om te testen heb ik de rand naar oranje veranderd. De rand veranderde meteen mee terwijl ik alleen de custom property bovenaan had aangepast.
 
