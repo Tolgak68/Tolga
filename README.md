@@ -188,6 +188,84 @@ Vanaf stap 5 heb ik de brede versie vastgelegd (preview 810 pixels). Van de eind
 **Stap 9 (smal)**
 ![Grid oefening 3, stap 9 smal](readme-images/grid/grid-oefening-3-stap-9-smal.png)
 
+## Grid oefening 4
+
+### Wat ik heb gedaan
+
+Ik heb de pen geforkt en stap 1 tot en met 15 elk onder de eigen commentaarregel gezet. Stap 4 staat in vier blokken, `p:nth-of-type(1)`, `p:nth-of-type(2)`, `img` en `a`. Na elke stap heb ik gecheckt of de preview klopte, opgeslagen en een screenshot gemaakt. Onder BASIS STYLING heb ik niets veranderd.
+
+### Een keuze die ik heb gemaakt
+
+De code van stap 12 staat bij mij in het blok van de rating onder het commentaar `/* stap 9 */`. In de pen van Sanne heet het commentaar daar zo. Het commentaar heb ik niet veranderd.
+
+### Wat ik heb getest
+
+Ik heb de preview smaller en breder gemaakt. Op 439 pixels staat er één card per rij, op 810 pixels twee en op 1319 pixels vier. Daar is geen media query voor nodig.
+
+### Wat ik heb geleerd
+
+Een card kan zelf een grid zijn binnen een grid. De body zet de cards naast elkaar en elke card zet zijn eigen onderdelen op hun plek.
+Met `grid-template-columns: 1fr max-content` krijgt de eerste kolom alle ruimte die over is en is de tweede kolom zo breed als de knop.
+Met `grid-row-start` zet je een onderdeel op een andere plek dan in de HTML. Het plaatje staat in de HTML na de rating, maar door `grid-row-start: 1` staat het bovenaan.
+Met `repeat(auto-fit, minmax(min(16em, 100%), 1fr))` maakt de browser zelf kolommen erbij of haalt hij ze weg. `min(16em, 100%)` zorgt dat het ook op een heel smal scherm past.
+Met `1fr` in `grid-template-rows` krijgt de rij met de tekst de ruimte die over is. Daardoor staan de links in alle cards onderaan.
+Met `min-content` wordt een kolom zo smal als het langste woord. Daardoor staan buy en de prijs in de knop onder elkaar.
+
+### Screenshots
+
+De preview was bij de stappen 810 pixels breed. Van de eindstand heb ik ook een smalle versie gemaakt op 439 pixels en een brede op 1319 pixels.
+
+**Stap 1**
+![Grid oefening 4, stap 1](readme-images/grid/grid-oefening-4-stap-1.png)
+
+**Stap 2**
+![Grid oefening 4, stap 2](readme-images/grid/grid-oefening-4-stap-2.png)
+
+**Stap 3**
+![Grid oefening 4, stap 3](readme-images/grid/grid-oefening-4-stap-3.png)
+
+**Stap 4**
+![Grid oefening 4, stap 4](readme-images/grid/grid-oefening-4-stap-4.png)
+
+**Stap 5**
+![Grid oefening 4, stap 5](readme-images/grid/grid-oefening-4-stap-5.png)
+
+**Stap 6**
+![Grid oefening 4, stap 6](readme-images/grid/grid-oefening-4-stap-6.png)
+
+**Stap 7**
+![Grid oefening 4, stap 7](readme-images/grid/grid-oefening-4-stap-7.png)
+
+**Stap 8**
+![Grid oefening 4, stap 8](readme-images/grid/grid-oefening-4-stap-8.png)
+
+**Stap 9**
+![Grid oefening 4, stap 9](readme-images/grid/grid-oefening-4-stap-9.png)
+
+**Stap 10**
+![Grid oefening 4, stap 10](readme-images/grid/grid-oefening-4-stap-10.png)
+
+**Stap 11**
+![Grid oefening 4, stap 11](readme-images/grid/grid-oefening-4-stap-11.png)
+
+**Stap 12**
+![Grid oefening 4, stap 12](readme-images/grid/grid-oefening-4-stap-12.png)
+
+**Stap 13**
+![Grid oefening 4, stap 13](readme-images/grid/grid-oefening-4-stap-13.png)
+
+**Stap 14**
+![Grid oefening 4, stap 14](readme-images/grid/grid-oefening-4-stap-14.png)
+
+**Stap 15**
+![Grid oefening 4, stap 15](readme-images/grid/grid-oefening-4-stap-15.png)
+
+**Stap 15 (smal)**
+![Grid oefening 4, stap 15 smal](readme-images/grid/grid-oefening-4-stap-15-smal.png)
+
+**Stap 15 (breed)**
+![Grid oefening 4, stap 15 breed](readme-images/grid/grid-oefening-4-stap-15-breed.png)
+
 ### 18 nov - Practicum kleuren en gradients
 
 Ik heb het practicum mooie kleuren en gradients van Sanne gedaan in CodePen. Bij oefening 1 heb ik twaalf blokjes nagemaakt met de zes soorten gradients, linear, radial, conic en de repeating versies, met de kleuren als custom properties in :root. Ik heb ook background-size, background-position en background-repeat gebruikt, en twee gradients over elkaar met een komma ertussen. Bij oefening 2 heb ik acht vlaggen gemaakt met harde lijnen in gradients, zoals Japan met een radial-gradient en Tsjechië met een conic-gradient. Bij oefening 3 heb ik gradients geanimeerd met @property, met hover, transition en keyframes.
