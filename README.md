@@ -28,6 +28,22 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 23 nov - Schetsen skill tree, ronde 2
+
+In ronde 2 werkte ik het netwerk, de kaartjes en de sterrenhemel verder uit. Op elke schets staat mijn icoon, mijn takken met vaardigheden, lege sloten met een slotje en een plek voor iets nieuws.
+
+![Mijn schetsen van het netwerk, de kaartjes en de sterrenhemel](readme-images/23nov-schetsen-ronde-2.jpg)
+
+Ik vergeleek ze op drie vragen. Zie je dat alles uit mij groeit? Past er makkelijk iets nieuws bij? Werkt het voor iedereen, ook op een klein scherm?
+
+Bij het netwerk lopen alle takken vanuit mijn icoon naar buiten. Je ziet dus meteen dat alles uit mij groeit. Een nieuwe tak kan er in elke richting bij. Op een telefoon wordt het wel vol.
+
+Bij de kaartjes staat alles netjes onder elkaar en is een nieuwe tak gewoon een kaartje erbij. Het werkt op elk scherm. Maar je ziet niet dat de vaardigheden uit mij groeien, want het is een lijst.
+
+Bij de sterrenhemel zweven de sterrenbeelden los over het scherm. Ze zijn niet verbonden met mij onderaan. Wat wel sterk is, is het licht van de sterren.
+
+Daarom kies ik het netwerk. Het lijkt op de graph view van Obsidian. Die app gebruik ik zelf voor mijn onderneming, omdat ik hem handig vind en mooi vind om te zien. Obsidian is paars net als mijn stijl, maar dat is toeval. De kaartjes houd ik als lijst voor wie het netwerk niet goed kan gebruiken. Van de sterren neem ik het licht mee voor de vaardigheden die ik heb vrijgespeeld.
+
 ### 23 nov - Schetsen skill tree, ronde 1
 
 Om te kiezen hoe mijn skill tree eruitziet, maakte ik een Crazy 8 met acht vormen voor een telefoon. Rechte rijen, een echte boom, banen zoals planeten, een kaart met eilanden, een honingraat, een sterrenhemel, een netwerk en kaartjes onder elkaar.
