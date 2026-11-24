@@ -113,6 +113,17 @@ main ol {
   border-left: 0.2em solid var(--paars);
 }
 
+/* elke vaardigheid als kaartje */
+main li {
+  padding: 1em;
+  border: 0.1em solid var(--paars);
+  border-radius: 1em;
+}
+
+main h3 {
+  margin-top: 0;
+}
+
 /**************************
 * MARK: Section ...
 **************************/
