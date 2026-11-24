@@ -122,6 +122,14 @@ main li {
 
 main h3 {
   margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* het blok klein en paars*/
+.blok {
+  font-size: 0.8em;
+  color: var(--paars);
+  margin-top: 0;
 }
 
 /**************************
