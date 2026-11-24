@@ -125,14 +125,14 @@ main h3 {
   margin-bottom: 0;
 }
 
-/* het blok klein en paars*/
+/* het blok klein en paars */
 .blok {
   font-size: 0.8em;
   color: var(--paars);
   margin-top: 0;
 }
 
-/* eerst dacht ik en nu weet ik in een eigen kader*/
+/* eerst dacht ik en nu weet ik in een eigen kader */
 .eerst,
 .nu {
   padding: 0.7em;
@@ -142,6 +142,13 @@ main h3 {
 
 .nu {
   border-color: var(--paars);
+  margin-bottom: 0;
+}
+
+/* het lege slot met stippellijnen */
+.slot {
+  border-style: dashed;
+  padding: 0.3em;
 }
 
 /**************************
