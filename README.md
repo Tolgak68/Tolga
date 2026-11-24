@@ -82,6 +82,12 @@ Vak 6 is de sterrenhemel. Daar draait het om licht. Vaardigheden die ik heb vrij
 
 In ronde 2 werk ik deze drie verder uit en daarna maak ik pas een keuze.
 
+### 23 nov - Teksten per vaardigheid
+
+Voor elke vaardigheid schreef ik een korte tekst voor op mijn site. Die tekst zegt waar het over gaat, wat ik eerst dacht en wat ik nu weet.
+
+Mijn eerste teksten waren te vaag. Er stonden woorden in zoals DreamBox en zones. Iemand die mijn opleiding niet kent, snapt niet waar dat over gaat. Daarom begint elke tekst nu met wat het project was in gewone woorden. Daarna komt wat er gebeurde en wat ik leerde.
+
 ### 23 nov - Nieuw concept skill tree
 
 Sanne en Diederik zeiden dat mijn garden nog te veel op een portfolio lijkt. Diederik gaf me tips. Minder werk laten zien en meer over mij. Laten zien wat ik geleerd heb door het toe te passen in mijn site. Een navigatie die persoonlijk is en vormgeving die bij mij past.
