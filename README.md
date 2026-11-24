@@ -28,6 +28,20 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 23 nov - Nieuw concept skill tree
+
+Sanne en Diederik zeiden dat mijn garden nog te veel op een portfolio lijkt. Diederik gaf me tips. Minder werk laten zien en meer over mij. Laten zien wat ik geleerd heb door het toe te passen in mijn site. Een navigatie die persoonlijk is en vormgeving die bij mij past.
+
+Mijn levels lieten vooral mijn eindwerk per blok zien. Het game idee houd ik maar nu gaat het over wat ik leerde en niet over wat ik maakte. Daarom koos ik een nieuw concept genaamd skill tree. Ik sta in het midden en daaromheen groeien takken met vaardigheden die ik als ontwerper heb vrijgespeeld. Lege sloten zonder naam staan voor wat ik nog ga leren. Het slot komt uit mijn Crazy 8 waar ik al een game level met een slot tekende.
+
+Mijn inspiratie komt uit de skill tree van Spider-Man 2 een van mijn favoriete games. Daarna zocht ik verder en vond ik twee andere PlayStation games met iets vergelijkbaars. God of War Ragnarök heeft voor wapens en Atreus en Ghost of Tsushima heeft vechtstijlen en technieken. Bij verder onderzoek kwam ik ook uit op het WayneTech netwerk in Batman Arkham Knight en de perks en relic boom in Cyberpunk 2077. Ook keek ik naar de technieken in Sekiro Shadows Die Twice en de drie specialisaties in Assassin's Creed Mirage.
+
+![De skill trees uit de games die mijn inspiratie waren](readme-images/23nov-skilltree-inspiratie.png)
+
+Ik zet op een rij wat ik leerde met bewijs uit mijn eindwerken. Daar komen vaardigheden uit en die houd ik allemaal. Ik verdeel ze over verschillende takken. Past een nieuwe vaardigheid later nergens bij dan krijgt hij een eigen tak.
+
+Bronnen zijn de skill tree schermen uit de games. Spider-Man 2 komt van [Interface In Game](https://interfaceingame.com/games/marvels-spider-man-2/). God of War Ragnarök met de wapens komt van [Reddit r/GodofWarRagnarok](https://www.reddit.com/r/GodofWarRagnarok/comments/1b7prz7/whats_your_favorite_set_of_combos_or_a_specific/) en met Atreus van [The Loadout](https://theloadout.com/god-of-war-ragnarok/skills-trees). Ghost of Tsushima komt van [Interface In Game](https://interfaceingame.com/screenshots/ghost-of-tsushima-skill-tree/) en Batman Arkham Knight van [Game UI Database](https://www.gameuidatabase.com/index.php?set=1&scrn=64&series=8&tag=63). Cyberpunk 2077 komt van [Reddit r/cyberpunkgame](https://www.reddit.com/r/cyberpunkgame/comments/1mw5tq8/punk_2077_build/) en Sekiro Shadows Die Twice van [Game UI Database](https://gameuidatabase.com/index.php?set=1&scrn=64&sort=4&series=10&tag=169). Assassin's Creed Mirage komt van [Interface In Game](https://interfaceingame.com/screenshots/assassins-creed-mirage-skill-tree/). Verder gebruikte ik mijn eindwerken.
+
 ### 20 nov - Practicum Grid en media queries
 
 Ik heb het practicum Grid 101 en media queries 101 van Sanne gedaan in CodePen. Mijn pennen zijn [oefening 1](https://codepen.io/editor/Tolga-Kece/pen/01a20348-f3fe-74c5-893a-78835c5f1c67), [oefening 2](https://codepen.io/editor/Tolga-Kece/pen/01a20363-20b2-719f-a73a-76eaf196a195), [oefening 3](https://codepen.io/editor/Tolga-Kece/pen/01a20388-1c55-76ce-bd9d-fe248ed83866) en [oefening 4](https://codepen.io/editor/Tolga-Kece/pen/01a2039c-aed2-765e-bbc1-cef5d5063f0a).
