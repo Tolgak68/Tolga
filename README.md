@@ -28,6 +28,18 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 23 nov - Schetsen skill tree, ronde 3
+
+In ronde 3 werkte ik het netwerk verder uit. Eerst schetste ik drie manieren om een vaardigheid te openen met Feedback Loop als voorbeeld. Bij de eerste schuift er een vlak van onderen omhoog en blijft de skill tree bovenaan zichtbaar. Bij de tweede opent de vaardigheid over het hele scherm en ga je terug met een pijl. Bij de derde komt er een klein kaartje naast het bolletje met alleen de kern en een knop lees meer.
+
+![Drie manieren om een vaardigheid te openen](readme-images/23nov-skilltree-feedbackloop.jpg)
+
+Ik koos de eerste. Je ziet nog waar je bent in de skill tree en er is genoeg ruimte voor de hele tekst. Bij de tweede ben je de skill tree kwijt. Bij de derde is het kaartje te klein voor de tekst over wat ik leerde.
+
+Daarna schetste ik een leeg slot dat je opent. In het vlak staat alleen een slotje en de zin dat ik die vaardigheid nog niet heb vrijgespeeld, zonder naam. Ook schetste ik een breed scherm. Daar staat de skill tree links en opent de vaardigheid rechts in een vast vlak. Onderaan staan mijn links naar GitHub en mijn mail.
+
+![Een leeg slot op de telefoon en de skill tree op een breed scherm](readme-images/23nov-skilltree-slot-en-desktop.jpg)
+
 ### 23 nov - Schetsen skill tree, ronde 2
 
 In ronde 2 werkte ik het netwerk, de kaartjes en de sterrenhemel verder uit. Op elke schets staat mijn icoon, mijn takken met vaardigheden, lege sloten met een slotje en een plek voor iets nieuws.
