@@ -140,6 +140,10 @@ main h3 {
   border-radius: 0.5em;
 }
 
+.nu {
+  border-color: var(--paars);
+}
+
 /**************************
 * MARK: Section ...
 **************************/
