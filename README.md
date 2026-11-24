@@ -28,6 +28,16 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 23 nov - HTML en CSS skill tree
+
+In mijn HTML heb ik mijn levels per blok vervangen door vaardigheden per tak. Elke tak is een `section`, omdat het een eigen deel van mijn pagina is met een eigen kopje. Een `div` zegt niks over wat erin zit en een `article` is voor iets wat los kan staan. De naam van de tak is een `h2`. Daaronder staat een `ol`, omdat de volgorde telt van mijn eerste blok tot nu. Elke vaardigheid is een `li` met de naam als `h3` en daaronder een `p` voor het blok, de tekst, eerst dacht ik en nu weet ik. Het slot is de laatste `li` zonder naam. Voor nu staat alleen de tak Testen erin. De andere vier takken krijgen dezelfde opbouw.
+
+Om stukjes apart vorm te geven gaf ik ze een class. Blok, eerst en nu staan op de `p`, slot staat op de `li`.
+
+In mijn CSS maakte ik van elke vaardigheid een kaartje met een paarse rand en ronde hoeken. Boven de naam zat lege ruimte die haalde ik weg met `margin-top: 0` op de `h3`. De ruimte tussen de naam en het blok vond ik onnodig. Daarom zette ik ook `margin-bottom: 0` op de `h3` en `margin-top: 0` op `.blok`, zodat ze direct onder elkaar staan. Het blok is klein en paars. Eerst dacht ik en nu weet ik kregen elk een eigen kader roze en paars. Het slot kreeg een stippellijn en minder padding, omdat er maar één zin in staat. Onder het laatste kader zat nog lege ruimte door de marge van de `p`. Die haalde ik weg met `margin-bottom: 0` op `.nu`.
+
+![Mijn vaardigheden als kaartjes met een roze en paars kader en het slot met een stippellijn](readme-images/23nov-css-kaartjes.png)
+
 ### 23 nov - Schetsen skill tree, ronde 3
 
 In ronde 3 werkte ik het netwerk verder uit. Eerst schetste ik drie manieren om een vaardigheid te openen met Feedback Loop als voorbeeld. Bij de eerste schuift er een vlak van onderen omhoog en blijft de skill tree bovenaan zichtbaar. Bij de tweede opent de vaardigheid over het hele scherm en ga je terug met een pijl. Bij de derde komt er een klein kaartje naast het bolletje met alleen de kern en een knop lees meer.
