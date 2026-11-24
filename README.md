@@ -102,6 +102,18 @@ Ik zet op een rij wat ik leerde met bewijs uit mijn eindwerken. Daar komen vaard
 
 Bronnen zijn de skill tree schermen uit de games. Spider-Man 2 komt van [Interface In Game](https://interfaceingame.com/games/marvels-spider-man-2/). God of War Ragnarök met de wapens komt van [Reddit r/GodofWarRagnarok](https://www.reddit.com/r/GodofWarRagnarok/comments/1b7prz7/whats_your_favorite_set_of_combos_or_a_specific/) en met Atreus van [The Loadout](https://theloadout.com/god-of-war-ragnarok/skills-trees). Ghost of Tsushima komt van [Interface In Game](https://interfaceingame.com/screenshots/ghost-of-tsushima-skill-tree/) en Batman Arkham Knight van [Game UI Database](https://www.gameuidatabase.com/index.php?set=1&scrn=64&series=8&tag=63). Cyberpunk 2077 komt van [Reddit r/cyberpunkgame](https://www.reddit.com/r/cyberpunkgame/comments/1mw5tq8/punk_2077_build/) en Sekiro Shadows Die Twice van [Game UI Database](https://gameuidatabase.com/index.php?set=1&scrn=64&sort=4&series=10&tag=169). Assassin's Creed Mirage komt van [Interface In Game](https://interfaceingame.com/screenshots/assassins-creed-mirage-skill-tree/). Verder gebruikte ik mijn eindwerken.
 
+### 23 nov - Bi-weekly geek 1
+
+De vraag van de dag was wat het internet eigenlijk is. Ter voorbereiding keek ik de video How Does The Internet Work van BBC Click en las ik twee artikelen van The Guardian, een over de storing bij Amazon en een interview met Tim Berners-Lee. Wat me opviel is dat het internet en het web niet hetzelfde zijn. Het internet is de hardware, met kabels en gebouwen vol servers. Het web draait daar bovenop. Ik bedacht ook voor elke schrijver een vraag. Aan The Guardian was de vraag waar het cijfer van 70% van het internetverkeer door Noord Virginia vandaan komt, want daar stond geen bron bij. Aan Berners-Lee was de vraag hoe gewone mensen hun eigen data in Solid beheren als de meeste mensen niet eens de cookiemelding lezen.
+
+In de les werkten we in teams aan twee hoofdvragen. Bij de vraag of internettoegang een mensenrecht is, schreven wij de deelvragen. Wat wordt er bedoeld met mensenrecht? Wat valt er onder internettoegang? Mag dit recht ontnomen worden? Wie is er bepalend? Wie heeft er nu geen toegang tot internet? Het andere team koos daar de onderzoeksmethodes bij.
+
+![Onze deelvragen bij de vraag of internettoegang een mensenrecht is](readme-images/23nov-biweekly-geek-mensenrecht.jpg)
+
+Bij de vraag of overheden verantwoordelijk zijn voor de betrouwbaarheid van het internet was het andersom. Het andere team schreef de deelvragen en wij kozen de onderzoeksmethodes. Dat werden vooral expert interviews, een survey en literature study.
+
+![Onze onderzoeksmethodes bij de vraag over overheden](readme-images/23nov-biweekly-geek-overheden.jpg)
+
 ### 20 nov - Practicum Grid en media queries
 
 Ik heb het practicum Grid 101 en media queries 101 van Sanne gedaan in CodePen. Mijn pennen zijn [oefening 1](https://codepen.io/editor/Tolga-Kece/pen/01a20348-f3fe-74c5-893a-78835c5f1c67), [oefening 2](https://codepen.io/editor/Tolga-Kece/pen/01a20363-20b2-719f-a73a-76eaf196a195), [oefening 3](https://codepen.io/editor/Tolga-Kece/pen/01a20388-1c55-76ce-bd9d-fe248ed83866) en [oefening 4](https://codepen.io/editor/Tolga-Kece/pen/01a2039c-aed2-765e-bbc1-cef5d5063f0a).
