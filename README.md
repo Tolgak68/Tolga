@@ -28,6 +28,22 @@ Mijn idee is dat je als in een game langs de periodes loopt van level naar level
 
 ## Learning Log
 
+### 23 nov - Schetsen skill tree, ronde 1
+
+Om te kiezen hoe mijn skill tree eruitziet, maakte ik een Crazy 8 met acht vormen voor een telefoon. Rechte rijen, een echte boom, banen zoals planeten, een kaart met eilanden, een honingraat, een sterrenhemel, een netwerk en kaartjes onder elkaar.
+
+![Mijn Crazy 8 met acht vormen voor mijn skill tree](readme-images/23nov-crazy8-skilltree.jpg)
+
+Uit de acht haalde ik er drie die ik interessant vind en die bij mij passen. De rechte rijen uit vak 1 voelden statisch en groeien maar één kant op. De boom uit vak 2 heeft hetzelfde probleem, want de takken gaan alleen omhoog en bovenaan wordt het snel vol. Bij de banen uit vak 3 zie je wanneer ik iets leerde, maar niet welke vaardigheden bij elkaar horen.Bij 4 en 5 vond ik dat het groei niet goed visualiseerde.
+
+Vak 7 is het netwerk. Ik vind het interessant omdat de vaardigheden vanuit mij alle kanten op groeien en niet in één richting. In ronde 2 wil ik zien of er later makkelijk een nieuwe tak bij kan.
+
+Vak 8 zijn de kaartjes onder elkaar. Niet iedereen kan een netwerk goed gebruiken, bijvoorbeeld op een klein scherm of met een schermlezer. Een gewone lijst werkt voor iedereen.
+
+Vak 6 is de sterrenhemel. Daar draait het om licht. Vaardigheden die ik heb vrijgespeeld kunnen oplichten en lege sloten blijven donker. In bijna elk vak tekende ik al een stippellijn om het slot, alsof het licht geeft.
+
+In ronde 2 werk ik deze drie verder uit en daarna maak ik pas een keuze.
+
 ### 23 nov - Nieuw concept skill tree
 
 Sanne en Diederik zeiden dat mijn garden nog te veel op een portfolio lijkt. Diederik gaf me tips. Minder werk laten zien en meer over mij. Laten zien wat ik geleerd heb door het toe te passen in mijn site. Een navigatie die persoonlijk is en vormgeving die bij mij past.
