@@ -4,7 +4,7 @@
 
 ### Wat ik wil maken
 
-Mijn digital garden gaat over mijn groei als ontwerper en als persoon. Je ziet niet alleen wat ik maakte, maar vooral wat ik per periode leerde, waar ik vastliep en hoe ik veranderde. Net als een tuin is hij nooit af. Ik zou hem na dit blok graag blijven bijhouden.
+Mijn digital garden gaat over mijn groei als ontwerper en als persoon. Je ziet niet wat ik maakte, maar welke vaardigheden ik vrijspeelde. Per vaardigheid zie je wat ik eerst dacht en wat ik nu weet. Net als een tuin is hij nooit af. Ik zou hem na dit blok graag blijven bijhouden.
 
 ### Wat ik zag en nog niet kan
 
@@ -16,7 +16,7 @@ Bij Ste Grainer en Mike Mai kan je zelf licht, donker of automatisch kiezen. Dat
 
 ### Mijn eigen content
 
-Per periode wil ik laten zien wat ik leerde bijvoorbeeld met een schets naast wat het werd of met iets wat eerst mislukte. Bij Maggie Appleton zag ik dat elke tekst een groeifase heeft, zoals zaadje, kiemplant en boom. Dat vind ik een mooie manier om te laten zien wat nog groeit.
+Per vaardigheid vertel ik in gewone woorden wat het project was, wat er gebeurde en wat ik leerde. Soms laat ik er een schets of foto bij zien en soms is een korte tekst genoeg. Bij Maggie Appleton zag ik dat elke tekst een groeifase heeft, zoals zaadje, kiemplant en boom. Dat vind ik een mooie manier om te laten zien wat nog groeit.
 
 ### Content van anderen
 
@@ -24,7 +24,7 @@ Mijn garden gaat over mijn eigen werk, dus het meeste is van mij. Laat ik iets v
 
 ### Hoe je het kan ervaren
 
-Mijn idee is dat je als in een game langs de periodes loopt van level naar level. Het laatste level zit op slot, omdat ik nog groei. Zelf licht of donker kiezen is ook een idee, omdat ik dat al geoefend heb. In mijn 50 afbeeldingen zag ik veel donkere achtergronden met roze, paars en groen. Dat werden mijn kleuren.
+Mijn idee is een skill tree, zoals in een game. Ik sta in het midden en daaromheen groeien takken met vaardigheden alle kanten op. Als je een vaardigheid aantikt, zie je wat ik leerde. Lege sloten zonder naam staan voor wat ik nog ga leren of aan het leren ben. Zelf licht of donker kiezen is ook een idee, omdat ik dat al geoefend heb. In mijn 50 afbeeldingen zag ik veel donkere achtergronden met roze, paars en groen. Dat werden mijn kleuren.
 
 ## Learning Log
 
