@@ -132,6 +132,14 @@ main h3 {
   margin-top: 0;
 }
 
+/* eerst dacht ik en nu weet ik in een eigen kader*/
+.eerst,
+.nu {
+  padding: 0.7em;
+  border: 0.1em solid var(--roze);
+  border-radius: 0.5em;
+}
+
 /**************************
 * MARK: Section ...
 **************************/
