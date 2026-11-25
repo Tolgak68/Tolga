@@ -120,6 +120,24 @@ Ik zet op een rij wat ik leerde met bewijs uit mijn eindwerken. Daar komen vaard
 
 Bronnen zijn de skill tree schermen uit de games. Spider-Man 2 komt van [Interface In Game](https://interfaceingame.com/games/marvels-spider-man-2/). God of War Ragnarök met de wapens komt van [Reddit r/GodofWarRagnarok](https://www.reddit.com/r/GodofWarRagnarok/comments/1b7prz7/whats_your_favorite_set_of_combos_or_a_specific/) en met Atreus van [The Loadout](https://theloadout.com/god-of-war-ragnarok/skills-trees). Ghost of Tsushima komt van [Interface In Game](https://interfaceingame.com/screenshots/ghost-of-tsushima-skill-tree/) en Batman Arkham Knight van [Game UI Database](https://www.gameuidatabase.com/index.php?set=1&scrn=64&series=8&tag=63). Cyberpunk 2077 komt van [Reddit r/cyberpunkgame](https://www.reddit.com/r/cyberpunkgame/comments/1mw5tq8/punk_2077_build/) en Sekiro Shadows Die Twice van [Game UI Database](https://gameuidatabase.com/index.php?set=1&scrn=64&sort=4&series=10&tag=169). Assassin's Creed Mirage komt van [Interface In Game](https://interfaceingame.com/screenshots/assassins-creed-mirage-skill-tree/). Verder gebruikte ik mijn eindwerken.
 
+### 23 nov - Werkgroep 4, responsive
+
+Bij opdracht 16 moest ik me site breed en smal bekijken. Ik deed hem in de browser op vier breedtes. Op 375 en 640 staat mijn kolom netjes vol in beeld. Vanaf 1024 begint het lelijk te worden en op 1440 is het echt mis. Mijn kolom blijft maar 30em breed dus links en rechts is bijna het hele scherm leeg. Mijn site ziet er op een groot scherm uit als een telefoonstrook in het midden van een lege donkere vlakte. De collages blijven ook klein terwijl er ruimte genoeg is. Mijn notitie is dus dat er vanaf ongeveer 1024 iets moet gebeuren met de layout, meer kolommen of bredere onderdelen in plaats van alleen die ene smalle kolom.
+
+![Mijn site op 375 breed, de kolom vult het scherm](readme-images/23nov-opdracht16-375.png)
+
+![Mijn site op 640 breed](readme-images/23nov-opdracht16-640.png)
+
+![Mijn site op 1024 breed, de lege ruimte begint](readme-images/23nov-opdracht16-1024.png)
+
+![Mijn site op 1440 breed, een smalle strook in een lege vlakte](readme-images/23nov-opdracht16-1440.png)
+
+Bij opdracht 17 zocht ik drie voorbeelden van responsive design en bekeek ik ze in de browser. Lynn Fisher op lynnandtonic.com haar site wordt bij verschillende breedtes echt anders dus daar zie je meteen wat responsive betekent. Maggie Appleton op maggieappleton.com een digital garden zoals onze opdracht waar de kaarten zich herschikken als het scherm breder wordt. En Mike Mai op mikemai.net heel simpel daar groeien de tekst en de ruimte mee met het scherm.
+
+De check-out. Een site wordt lelijk als de layout niet meegroeit met het scherm. Bij mij gaat het mis op breed waar de kolom smal blijft en de rest leeg is. Je kunt het fixen met een max-width op de main, met de grid formule repeat(auto-fit, minmax(15em, 1fr)) zodat er kolommen bijkomen als het past of met een media query zoals width > 40em als je meer controle wilt. Mijn volgende stap is met media queries vanaf een breed scherm een andere indeling maken, want mijn skill tree moet er op een telefoon anders uitzien dan op een desktop. Mijn eigen garden kan ik grotendeels in webby woorden onderbouwen. Ik kan uitleggen waarom ik sections, een ol en kopjes gebruik en hoe mijn custom properties, light-dark en font-face werken.
+
+Bronnen zijn de opdrachten van werkgroep 4 op DLO, [lynnandtonic.com](https://lynnandtonic.com), [maggieappleton.com](https://maggieappleton.com) en [mikemai.net](https://mikemai.net).
+
 ### 23 nov - Bi-weekly geek 1
 
 De vraag van de dag was wat het internet eigenlijk is. Ter voorbereiding keek ik de video How Does The Internet Work van BBC Click en las ik twee artikelen van The Guardian, een over de storing bij Amazon en een interview met Tim Berners-Lee. Wat me opviel is dat het internet en het web niet hetzelfde zijn. Het internet is de hardware, met kabels en gebouwen vol servers. Het web draait daar bovenop. Ik bedacht ook voor elke schrijver een vraag. Aan The Guardian was de vraag waar het cijfer van 70% van het internetverkeer door Noord Virginia vandaan komt, want daar stond geen bron bij. Aan Berners-Lee was de vraag hoe gewone mensen hun eigen data in Solid beheren als de meeste mensen niet eens de cookiemelding lezen.
