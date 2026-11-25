@@ -28,6 +28,24 @@ Mijn idee is een skill tree, zoals in een game. Ik sta in het midden en daaromhe
 
 ## Learning Log
 
+### 25 nov - Nieuwe richting, mijn tuin wordt mijn leven
+
+Sanne en Diederik hebben gelijk. Vaardigheden laten zien aan de hand van mijn schoolblokken blijft een overzicht van mijn schoolwerk maakt niet uit hoe ik het ook vorm geef. Daarom heb ik de inhoud omgegooid. Het netwerk blijft, maar de bolletjes komen nu uit mijn hele leven.
+
+De takken worden delen van mijn leven. Gamen, de gym, ondernemen, school en hoe ik denk. Een bolletje kan een verhaal zijn, een mening, een doel of een open vraag. De open vragen zijn meteen mijn sloten. Ze blijven donker tot ik een antwoord vind.
+
+Om de inhoud te vinden schreef ik op wat echt iets voor me betekent. Elke bolletje moet door drie vragen heen. Betekent het echt iets voor mij? Zegt het iets over wie ik ben of hoe ik groei? Kan ik er zelf iets over vertellen? Zo kwamen er bolletjes uit zoals jaren wachten op GTA 6, hoe de gym mij veranderde, mijn start in de Bijenkorf, TK FLOWERS en mijn mening over misleiden in webshops.
+
+Uit school komen nog maar vier momenten. Andermans Bril, Breed Schetsen, Feedbackradar en Waaromkracht. Deze passen het sterkst en het best bij de rest van mijn tuin.
+
+### 25 nov - Voortgangsgesprek en CodePen met Sanne
+
+Ik pitchte mijn skill tree aan Diederik. Hij vond het stukken beter dan wat ik eerst had. Daarna ging ik naar Sanne. Hij zei dat het nog steeds op een portfolio lijkt, omdat ik mijn vaardigheden uit mijn schoolblokken haal en laat zien met mijn schoolwerk. Diederik zei ook dat het niet per se vaardigheden hoeven te zijn die ik laat zien. Ik geef ze gelijk dus ik ga de inhoud veranderen.
+
+Daarna hielp Sanne me met de code voor het netwerk in een nieuwe CodePen die hij helemaal met de hand typte. Elke stap is een div in een div. Een div start aan het einde van zijn ouder en draait met een eigen hoek die als custom property in de HTML staat. Met media queries krijgt hij per schermbreedte een andere hoek en maat. Het bolletje is een button en het streepje is een achtergrond met linear-gradient. Dat is ook voor nu het enige wat ik een beetje begrijp. Sanne gaf twee opties deze aanpak of anchor positioning. Dat is moderner maar ingewikkelder zei hij dus we kozen de makkelijkere. Eerst moet ik deze code snappen, kunnen lezen en zelf kunnen schrijven. Daarna pas komt de rest zoals animeren.
+
+Bronnen zijn de [CodePen van Sanne](https://codepen.io/editor/Tolga-Kece/pen/01a21204-c2b8-7844-b08c-2540082b0189).
+
 ### 23 nov - HTML en CSS skill tree
 
 In mijn HTML heb ik mijn levels per blok vervangen door vaardigheden per tak. Elke tak is een `section`, omdat het een eigen deel van mijn pagina is met een eigen kopje. Een `div` zegt niks over wat erin zit en een `article` is voor iets wat los kan staan. De naam van de tak is een `h2`. Daaronder staat een `ol`, omdat de volgorde telt van mijn eerste blok tot nu. Elke vaardigheid is een `li` met de naam als `h3` en daaronder een `p` voor het blok, de tekst, eerst dacht ik en nu weet ik. Het slot is de laatste `li` zonder naam. Voor nu staat alleen de tak Testen erin. De andere vier takken krijgen dezelfde opbouw.
