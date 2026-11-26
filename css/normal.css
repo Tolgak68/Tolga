@@ -108,6 +108,7 @@ main {
 
 main ol {
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
   gap: 3em;
   padding-left: 2em;
   border-left: 0.2em solid var(--paars);
@@ -152,5 +153,11 @@ main h3 {
 }
 
 /**************************
-* MARK: Section ...
+* MARK: Responsive
 **************************/
+
+@media (width > 40em) {
+  body {
+    max-width: 60em;
+  }
+}
