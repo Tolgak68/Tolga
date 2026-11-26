@@ -28,6 +28,18 @@ Mijn idee is een skill tree, zoals in een game. Ik sta in het midden en daaromhe
 
 ## Learning Log
 
+### 25 nov - Site omgebouwd naar mijn vijf takken
+
+Vandaag heb ik mijn site omgebouwd van het oude vaardigheden plan naar mijn nieuwe concept. De sectie Testen is weg en er staan nu vijf takken in, Gamen, De gym, Ondernemen, School en Hoe ik denk, elk met kaartjes met echte verhalen over mij. Twee kaartjes zitten op slot, die zijn donker met een stippelrand en hebben geen naam, want dat zijn vragen die ik nog niet kan beantwoorden. Mijn kop is nu ook mijn zin, mijn groei als ontwerper en als persoon, net als in mijn schetsen.
+
+Daarna maakte ik de site responsive met de twee technieken uit werkgroep 4. Een media query die de body boven 40em breder maakt tot 60em, en de grid formule met repeat, auto-fit en minmax op mijn ol, zodat de kaartjes naast elkaar gaan staan als er ruimte is. Op mijn telefoon blijft alles vanzelf één kolom, want daar past maar één kolom van 15em. Eerst was mijn site op een breed scherm één lompe kolom van brede kaartjes, nu vullen de kaartjes het scherm per tak.
+
+![Breed scherm met één lompe kolom](readme-images/25nov-site-breed-een-kolom.png)
+
+![Breed scherm met de kaartjes naast elkaar in het grid](readme-images/25nov-site-breed-grid.png)
+
+![Smal raam, alles springt terug naar één kolom](readme-images/25nov-site-smal.png)
+
 ### 25 nov - Werkgroep 5, ontwerpprincipes
 
 De opdrachten zijn normaal doorgeefrondes in groepjes, maar alleen werkt het ook dan verbeter je steeds je eigen vorige schets. Ik begon met een basisschets van mijn tuin op telefoonformaat met ik in het midden en mijn vijf takken eromheen. Daarna deed ik drie rondes met steeds één aanpassing. Bij contrast maakte ik drie lagen, ik groot in het midden, de takken dik, de bolletjes dun en het slot donker ingekleurd. Bij witruimte gaf ik elke tak zijn eigen hoek en hield ik ruimte rond het midden en zo zie je meteen welk bolletje bij welke tak hoort. Bij hiërarchie werkte ik drie tekstgroottes uit, de titel het grootst, dan de taknamen, dan de bolletjesnamen. Als laatste tekende ik een kolommengrid voor desktop met het netwerk breed uitgewaaierd over de kolommen en een kaartje dat opent als je op een bolletje klikt.
