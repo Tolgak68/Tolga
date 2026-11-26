@@ -46,6 +46,28 @@ Daarna hielp Sanne me met de code voor het netwerk in een nieuwe CodePen die hij
 
 Bronnen zijn de [CodePen van Sanne](https://codepen.io/editor/Tolga-Kece/pen/01a21204-c2b8-7844-b08c-2540082b0189).
 
+### 24 nov - Practicum everything images
+
+In dit practicum leerde ik omgaan met afbeeldingen op het web. Ik bouwde een grid van zes eigen foto's, omgezet naar webp volgens de vuistregels, twee keer zo breed als getoond en 80 procent kwaliteit met een alt tekst bij elke foto. Met aspect-ratio werden alle vakken vierkant en met object-fit cover vult de foto het vak zonder te vervormen. Daarna maakte ik een albumlijstje met icoontjes als background-image, klein gemaakt met background-size, met padding-inline-start als witruimte omdat een achtergrondplaatje niet in de margin doorloopt. Als laatste gaf ik een SVG blob een kleur via CSS en een hover. Daar had ik per ongeluk twee keer dezelfde hover selector staan en zag ik dat de onderste wint.
+
+![Mijn zes foto's veel te groot in het grid](readme-images/24nov-images-te-groot.png)
+
+![Het grid netjes na de img reset](readme-images/24nov-images-grid-met-reset.png)
+
+![Alle vakken vierkant met aspect-ratio, de foto's worden geplet](readme-images/24nov-images-aspect-ratio.png)
+
+![De foto's vullen hun vak met object-fit cover](readme-images/24nov-images-object-fit.png)
+
+![De eerste foto schuift in zijn vak terwijl ik hover](readme-images/24nov-images-hover.png)
+
+![De tape veel te groot en eindeloos herhaald](readme-images/24nov-background-tape-herhaald.png)
+
+![Het albumlijstje met de icoontjes netjes uitgelijnd](readme-images/24nov-background-eindresultaat.png)
+
+![De blob verandert van kleur als ik hover](readme-images/24nov-svg-hover.png)
+
+Bronnen zijn het practicum op DLO en de codepens van Vasilis, [content images](https://codepen.io/editor/vasilisvg/pen/01a2033a-30b9-7c29-bc2e-1ace9ae826fc), [background images](https://codepen.io/editor/vasilisvg/pen/01a203c4-a5d9-7399-b7f2-d10a5b19fb12) en [een SVG animeren](https://codepen.io/editor/vasilisvg/pen/01a203f3-11b6-7b93-a958-76a7aecbcf16).
+
 ### 23 nov - HTML en CSS skill tree
 
 In mijn HTML heb ik mijn levels per blok vervangen door vaardigheden per tak. Elke tak is een `section`, omdat het een eigen deel van mijn pagina is met een eigen kopje. Een `div` zegt niks over wat erin zit en een `article` is voor iets wat los kan staan. De naam van de tak is een `h2`. Daaronder staat een `ol`, omdat de volgorde telt van mijn eerste blok tot nu. Elke vaardigheid is een `li` met de naam als `h3` en daaronder een `p` voor het blok, de tekst, eerst dacht ik en nu weet ik. Het slot is de laatste `li` zonder naam. Voor nu staat alleen de tak Testen erin. De andere vier takken krijgen dezelfde opbouw.
