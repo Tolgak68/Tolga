@@ -28,6 +28,24 @@ Mijn idee is een skill tree, zoals in een game. Ik sta in het midden en daaromhe
 
 ## Learning Log
 
+### 25 nov - Werkgroep 5, ontwerpprincipes
+
+De opdrachten zijn normaal doorgeefrondes in groepjes, maar alleen werkt het ook dan verbeter je steeds je eigen vorige schets. Ik begon met een basisschets van mijn tuin op telefoonformaat met ik in het midden en mijn vijf takken eromheen. Daarna deed ik drie rondes met steeds één aanpassing. Bij contrast maakte ik drie lagen, ik groot in het midden, de takken dik, de bolletjes dun en het slot donker ingekleurd. Bij witruimte gaf ik elke tak zijn eigen hoek en hield ik ruimte rond het midden en zo zie je meteen welk bolletje bij welke tak hoort. Bij hiërarchie werkte ik drie tekstgroottes uit, de titel het grootst, dan de taknamen, dan de bolletjesnamen. Als laatste tekende ik een kolommengrid voor desktop met het netwerk breed uitgewaaierd over de kolommen en een kaartje dat opent als je op een bolletje klikt.
+
+De check-out. Drie principes die ik gebruikte zijn nabijheid, bolletjes staan dicht bij hun eigen tak dus je ziet wat bij elkaar hoort, contrast, verschil in grootte en zwaarte laat zien wat belangrijk is en hiërarchie, de volgorde waarin je oog over de pagina gaat. Een grid geeft vrijheid omdat je mag spelen met waar alles hangt en vastigheid omdat alles op dezelfde kolomlijnen uitlijnt en het zo één geheel blijft. In de laatste iteratie van mijn garden neem ik contrast en hiërarchie mee, want mijn netwerk werkt alleen als je in één oogopslag ziet wat het midden is wat een tak is en wat een bolletje is en mijn tekstgroottes moeten diezelfde volgorde laten zien.
+
+![Mijn basisschets op telefoonformaat](readme-images/25nov-schets-basis-mobiel.jpg)
+
+![Ronde contrast, drie lagen in het netwerk](readme-images/25nov-schets-contrast.jpg)
+
+![Ronde witruimte, elke tak zijn eigen hoek](readme-images/25nov-schets-witruimte.jpg)
+
+![Ronde hiërarchie, mijn drie tekstniveaus](readme-images/25nov-schets-tekstniveaus.jpg)
+
+![Kolommengrid voor desktop met het kaartje na een klik](readme-images/25nov-schets-grid-desktop.jpg)
+
+Bron is werkgroep 5 op DLO.
+
 ### 25 nov - Nieuwe richting, mijn tuin wordt mijn leven
 
 Sanne en Diederik hebben gelijk. Vaardigheden laten zien aan de hand van mijn schoolblokken blijft een overzicht van mijn schoolwerk maakt niet uit hoe ik het ook vorm geef. Daarom heb ik de inhoud omgegooid. Het netwerk blijft, maar de bolletjes komen nu uit mijn hele leven.
